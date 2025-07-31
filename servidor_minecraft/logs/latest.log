@@ -210,3 +210,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [31Jul2025 22:39:31.076] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
 [31Jul2025 22:39:31.077] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [31Jul2025 22:47:49.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] hola
+[31Jul2025 22:58:25.044] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29bf3bfa
+[31Jul2025 22:58:25.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:37269] logged in with entity id 63 at (944.4699453393513, 24.0, 7784.185060452488)
+[31Jul2025 22:58:25.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[31Jul2025 22:58:43.335] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c134c2f
+[31Jul2025 22:58:43.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:38523] logged in with entity id 385 at (1350.4454446880707, 46.0, 738.0340072881239)
+[31Jul2025 22:58:43.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[31Jul2025 22:59:24.296] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLeafcutterAnt['Leafcutter Ant'/1240, l='ServerLevel[world]', x=1151.97, y=110.00, z=824.98]
+[31Jul2025 22:59:24.297] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLeafcutterAnt['Leafcutter Ant'/1241, l='ServerLevel[world]', x=1151.99, y=109.00, z=819.71]
+[31Jul2025 22:59:24.496] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: QuirquinchoEntity['Quirquincho'/1244, l='ServerLevel[world]', x=1151.95, y=106.00, z=815.33]
+[31Jul2025 22:59:42.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[31Jul2025 23:00:04.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31Jul2025 23:00:31.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31Jul2025 23:00:50.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
