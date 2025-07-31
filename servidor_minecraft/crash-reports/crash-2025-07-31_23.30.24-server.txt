@@ -1,0 +1,390 @@
+---- Minecraft Crash Report ----
+// I feel sad now :(
+
+Time: 7/31/25, 11:30 PM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at java.text.SimpleDateFormat.subFormat(SimpleDateFormat.java:1379) ~[?:?] {}
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:1001) ~[?:?] {}
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:971) ~[?:?] {}
+	at java.text.DateFormat.format(DateFormat.java:378) ~[?:?] {}
+	at net.minecraft.advancements.CriterionProgress.m_12921_(CriterionProgress.java:53) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.advancements.AdvancementProgress$Serializer.serialize(AdvancementProgress.java:216) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.advancements.AdvancementProgress$Serializer.serialize(AdvancementProgress.java:208) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at com.google.gson.internal.bind.TreeTypeAdapter.write(TreeTypeAdapter.java:81) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.write(MapTypeAdapterFactory.java:208) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.write(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.Gson.toJson(Gson.java:735) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.Gson.toJsonTree(Gson.java:628) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.Gson.toJsonTree(Gson.java:607) ~[gson-2.8.9.jar%2321!/:?] {}
+	at net.minecraft.server.PlayerAdvancements.m_135991_(PlayerAdvancements.java:206) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.players.PlayerList.m_6765_(PlayerList.java:317) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:326) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1063) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.network.Connection.m_129541_(Connection.java:396) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:158) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer$$Lambda$11825/0x0000711fb96bb200.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Suspected Mods: NONE
+Stacktrace:
+	at java.text.SimpleDateFormat.subFormat(SimpleDateFormat.java:1379) ~[?:?] {}
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:1001) ~[?:?] {}
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:971) ~[?:?] {}
+	at java.text.DateFormat.format(DateFormat.java:378) ~[?:?] {}
+	at net.minecraft.advancements.CriterionProgress.m_12921_(CriterionProgress.java:53) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.advancements.AdvancementProgress$Serializer.serialize(AdvancementProgress.java:216) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.advancements.AdvancementProgress$Serializer.serialize(AdvancementProgress.java:208) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at com.google.gson.internal.bind.TreeTypeAdapter.write(TreeTypeAdapter.java:81) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.write(MapTypeAdapterFactory.java:208) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.write(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.Gson.toJson(Gson.java:735) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.Gson.toJsonTree(Gson.java:628) ~[gson-2.8.9.jar%2321!/:?] {}
+	at com.google.gson.Gson.toJsonTree(Gson.java:607) ~[gson-2.8.9.jar%2321!/:?] {}
+	at net.minecraft.server.PlayerAdvancements.m_135991_(PlayerAdvancements.java:206) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.players.PlayerList.m_6765_(PlayerList.java:317) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.players.PlayerList.m_11286_(PlayerList.java:326) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7026_(ServerGamePacketListenerImpl.java:1063) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.network.Connection.m_129541_(Connection.java:396) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:158) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@17.0.15/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@17.0.15/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	at java.base@17.0.15/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@5a1ea03
+	at java.base@17.0.15/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@5a1ea03
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@17.0.15/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=11 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@b6614c7
+	at java.base@17.0.15/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@b6614c7
+	at java.base@17.0.15/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.15/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+	at java.base@17.0.15/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+
+
+"Notification Thread" daemon prio=9 Id=12 RUNNABLE
+
+
+"Thread-0" daemon prio=5 Id=20 TIMED_WAITING
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:376)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
+
+
+"FileSystemWatchService" daemon prio=5 Id=21 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Timer hack thread" daemon prio=5 Id=26 TIMED_WAITING
+	at java.base@17.0.15/java.lang.Thread.sleep(Native Method)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.Util$8.run(Util.java:628)
+
+
+"FileSystemWatchService" daemon prio=5 Id=31 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=38 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Server thread" prio=5 Id=42 RUNNABLE
+	at java.base@17.0.15/java.text.SimpleDateFormat.subFormat(SimpleDateFormat.java:1379)
+	at java.base@17.0.15/java.text.SimpleDateFormat.format(SimpleDateFormat.java:1001)
+	at java.base@17.0.15/java.text.SimpleDateFormat.format(SimpleDateFormat.java:971)
+	at java.base@17.0.15/java.text.DateFormat.format(DateFormat.java:378)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.advancements.CriterionProgress.m_12921_(CriterionProgress.java:53)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.advancements.AdvancementProgress$Serializer.serialize(AdvancementProgress.java:216)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.advancements.AdvancementProgress$Serializer.serialize(AdvancementProgress.java:208)
+	at MC-BOOTSTRAP/com.google.gson@2.8.9/com.google.gson.internal.bind.TreeTypeAdapter.write(TreeTypeAdapter.java:81)
+	...
+
+
+"Server console handler" daemon prio=5 Id=43 RUNNABLE
+	at java.base@17.0.15/java.io.FileInputStream.read0(Native Method)
+	at java.base@17.0.15/java.io.FileInputStream.read(FileInputStream.java:228)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+	at MC-BOOTSTRAP/jline.reader@3.12.1/org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+	at MC-BOOTSTRAP/jline.reader@3.12.1/org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=45 RUNNABLE
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=46 RUNNABLE
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=47 RUNNABLE (in native)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.15/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Server Watchdog" daemon prio=5 Id=52 RUNNABLE
+	at java.management@17.0.15/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.15/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
+	at java.management@17.0.15/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:43)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=54 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=59 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=66 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #4" daemon prio=5 Id=67 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #5" daemon prio=5 Id=68 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #6" daemon prio=5 Id=69 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #7" daemon prio=5 Id=70 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.Native.epollWait(Native.java:176)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:281)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:351)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at MC-BOOTSTRAP/io.netty.all@4.1.68.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.15/java.lang.Thread.run(Thread.java:840)
+
+
+"Worker-Main-24" daemon prio=5 Id=74 WAITING on java.util.concurrent.ForkJoinPool@4a5b1efc
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@4a5b1efc
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-25" daemon prio=5 Id=75 TIMED_WAITING on java.util.concurrent.ForkJoinPool@4a5b1efc
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@4a5b1efc
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-26" daemon prio=5 Id=76 TIMED_WAITING on java.util.concurrent.ForkJoinPool@4a5b1efc
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@4a5b1efc
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Ice and Fire Pathfinding Worker #0" daemon prio=10 Id=83 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@40a00446
+	at java.base@17.0.15/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@40a00446
+	at java.base@17.0.15/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.15/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.15/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.15/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.15/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:485)
+	at java.base@17.0.15/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:673)
+	...
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:58) [server-1.18.2-20220404.173914-srg.jar%2367!/:?] {re:classloading}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {}
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 0, entities: 1531,1531,735,5959,5959,0,0 [alexsmobs:leafcutter_ant:217,minecraft:chicken:152,minecraft:item:114,peru_mod:boto:90,peru_mod:quirquincho:81], block_entities: 283 [minecraft:mob_spawner:218,minecraft:campfire:34,minecraft:beehive:10,alexsmobs:leafcutter_anthill_te:10,minecraft:furnace:7], block_ticks: 2135, fluid_ticks: 3530, chunk_source: Chunks[S] W: 14560 E: 1531,1530,735,5966,5964,7,13,
+ResourceKey[minecraft:dimension / panthalassa:panthalassa]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / peru_mod:hanan]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / witherstormmod:bowels]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / the_bumblezone:the_bumblezone]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 17.0.15, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 4203521280 bytes (4008 MiB) / 7851737088 bytes (7488 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7997.99
+	Virtual memory used (MB): 10739.02
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	Server Running: true
+	Player Count: 0 / 10; []
+	Data Packs: vanilla, mod:tconstruct (incompatible), mod:witherstormmod (incompatible), mod:panthalassa (incompatible), mod:mowziesmobs (incompatible), mod:eyemod, mod:feature_nbt_deadlock_be_gone (incompatible), mod:peru_mod, mod:thedragonlib (incompatible), mod:the_bumblezone, mod:paraglider, mod:forge, mod:patchouli (incompatible), mod:mantle (incompatible), mod:armorplus (incompatible), mod:geckolib3 (incompatible), mod:selene (incompatible), mod:supplementaries (incompatible), mod:citadel (incompatible), mod:alexsmobs (incompatible), mod:iceandfire (incompatible), Supplementaries Generated Pack, iceandfire:data, mod:travelersbackpack (incompatible), mod:playeranimator, mod:creativecore (incompatible), mod:playerrevive (incompatible), mod:emotecraft (incompatible), mod:tacz, mod:mixinextras (incompatible), tacz_pack/tacz, mod:immersive_aircraft (incompatible)
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |DONE      |Manifest: NOSIGNATURE
+		TConstruct-1.18.2-3.6.4.113.jar                   |Tinkers' Construct            |tconstruct                    |3.6.4.113           |DONE      |Manifest: NOSIGNATURE
+		panthalassa-1.2.2-1.18.2.jar                      |Panthalassa                   |panthalassa                   |1.2.2               |DONE      |Manifest: NOSIGNATURE
+		mowziesmobs-1.5.32.jar                            |Mowzie's Mobs                 |mowziesmobs                   |1.5.32              |DONE      |Manifest: NOSIGNATURE
+		forge-1.18.2-eyemod-2.3.2a.jar                    |EyeMod                        |eyemod                        |2.1.1               |DONE      |Manifest: NOSIGNATURE
+		Milan's Peru Mod v1.3.1.jar                       |Peru Mod                      |peru_mod                      |1.2.2               |DONE      |Manifest: NOSIGNATURE
+		player-animation-lib-forge-1.0.2+1.18.jar         |Player Animator               |playeranimator                |1.0.2+1.18          |DONE      |Manifest: NOSIGNATURE
+		CreativeCore_FORGE_v2.6.17_mc1.18.2.jar           |CreativeCore                  |creativecore                  |0.0NONE             |DONE      |Manifest: NOSIGNATURE
+		tacz-1.18.2-1.1.4-hotfix-all.jar                  |Timeless & Classics Guns: Zero|tacz                          |1.1.4-hotfix        |DONE      |Manifest: NOSIGNATURE
+		immersive_aircraft-0.5.2+1.18.2-forge.jar         |Immersive Aircraft            |immersive_aircraft            |0.5.2+1.18.2        |DONE      |Manifest: NOSIGNATURE
+		Patchouli-1.18.2-71.1.jar                         |Patchouli                     |patchouli                     |1.18.2-71.1         |DONE      |Manifest: NOSIGNATURE
+		Mantle-1.18.2-1.9.45.jar                          |Mantle                        |mantle                        |1.9.45              |DONE      |Manifest: NOSIGNATURE
+		citadel-1.11.3-1.18.2.jar                         |Citadel                       |citadel                       |1.11.3              |DONE      |Manifest: NOSIGNATURE
+		alexsmobs-1.18.6.jar                              |Alex's Mobs                   |alexsmobs                     |1.18.6              |DONE      |Manifest: NOSIGNATURE
+		travelersbackpack-forge-1.18.2-7.1.49.jar         |Traveler's Backpack           |travelersbackpack             |7.1.49              |DONE      |Manifest: NOSIGNATURE
+		witherstormmod-1.18.2-2.2.1.jar                   |Cracker's Wither Storm Mod    |witherstormmod                |2.2.1               |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.6.jar                       |MixinExtras                   |mixinextras                   |0.3.6               |DONE      |Manifest: NOSIGNATURE
+		feature_nbt_deadlock_be_gone_forge-2.0.0+1.18.2.ja|Feature NBT Deadlock Be Gone  |feature_nbt_deadlock_be_gone  |2.0.0+1.18.2        |DONE      |Manifest: NOSIGNATURE
+		iceandfire-2.1.12-1.18.2.jar                      |Ice and Fire                  |iceandfire                    |2.1.12-1.18.2       |DONE      |Manifest: NOSIGNATURE
+		thedragonlib-1.18.1-1.0.0.jar                     |TheDragonLib                  |thedragonlib                  |1.18.1-1.0.0        |DONE      |Manifest: NOSIGNATURE
+		the_bumblezone_forge-5.1.2+1.18.2.jar             |The Bumblezone                |the_bumblezone                |5.1.2+1.18.2        |DONE      |Manifest: NOSIGNATURE
+		Paraglider-1.18.2-1.6.0.5.jar                     |Paraglider                    |paraglider                    |1.6.0.5             |DONE      |Manifest: NOSIGNATURE
+		forge-1.18.2-40.2.21-universal.jar                |Forge                         |forge                         |40.2.21             |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		armorplus-1.18.2-18.3.0.jar                       |ArmorPlus                     |armorplus                     |1.18.2-18.3.0       |DONE      |Manifest: NOSIGNATURE
+		PlayerRevive_FORGE_v2.0.13_mc1.18.2.jar           |PlayerRevive                  |playerrevive                  |2.0.13              |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.18-3.0.57.jar                    |GeckoLib                      |geckolib3                     |3.0.57              |DONE      |Manifest: NOSIGNATURE
+		emotecraft-for-MC1.18.2-2.2.5-forge.jar           |Emotecraft                    |emotecraft                    |2.2.5               |DONE      |Manifest: NOSIGNATURE
+		selene-1.18.2-1.17.9.jar                          |Selene                        |selene                        |1.18.2-1.17.9       |DONE      |Manifest: NOSIGNATURE
+		supplementaries-1.18.2-1.5.18.jar                 |Supplementaries               |supplementaries               |1.18.2-1.5.18       |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: b5b53dbd-84b7-47e0-9d9c-6fa15b6ab382
+	FML: 40.2
+	Forge: net.minecraftforge:40.2.21
