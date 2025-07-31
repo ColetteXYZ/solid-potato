@@ -2057,6 +2057,12 @@
     },
     "done": true
   },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-07-31 22:59:40 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
     "criteria": {
       "has_req": "2025-07-19 01:55:10 +0000"
