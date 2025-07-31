@@ -194,3 +194,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [31Jul2025 23:39:13.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
 [31Jul2025 23:40:25.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/4369, l='ServerLevel[world]', x=1714.50, y=59.00, z=7221.50]
 [31Jul2025 23:41:28.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [We Just Want our Hat Back]
+[31Jul2025 23:43:30.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Jul2025 23:44:14.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5598, l='ServerLevel[world]', x=1718.50, y=61.00, z=7241.50]
+[31Jul2025 23:45:28.767] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/6195, l='ServerLevel[world]', x=1596.07, y=36.99, z=6956.90]
+[31Jul2025 23:46:13.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Jul2025 23:47:18.258] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/7425, l='ServerLevel[world]', x=1597.92, y=39.72, z=6943.96]
+[31Jul2025 23:47:35.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31Jul2025 23:50:01.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 9.802845280483098,-2.393467997938174,4.494387487673521
+[31Jul2025 23:51:11.812] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10408, l='ServerLevel[world]', x=2015.50, y=48.00, z=7535.50]
+[31Jul2025 23:51:48.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[31Jul2025 23:52:07.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[31Jul2025 23:52:26.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4023ms or 80 ticks behind
+[31Jul2025 23:52:44.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
+[31Jul2025 23:53:04.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4269ms or 85 ticks behind
+[31Jul2025 23:53:23.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 948.500000, 90.000000, 7841.500000
+[31Jul2025 23:53:26.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7156ms or 143 ticks behind
