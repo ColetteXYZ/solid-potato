@@ -429,3 +429,10 @@
 [01Aug2025 02:31:00.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [01Aug2025 02:36:19.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 10 experience levels to DiamondKingX
 [01Aug2025 02:36:35.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 3 experience levels to DiamondKingX
+[01Aug2025 02:37:37.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 3 experience levels to DiamondKingX
+[01Aug2025 02:45:04.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[01Aug2025 02:45:04.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:45:10.655] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11b50979
+[01Aug2025 02:45:10.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:35569] logged in with entity id 116449 at (1326.3914057952122, 46.0, 759.5669989099888)
+[01Aug2025 02:45:10.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:46:13.741] [Server thread/INFO] [armorplus/]: Charge at: 36
