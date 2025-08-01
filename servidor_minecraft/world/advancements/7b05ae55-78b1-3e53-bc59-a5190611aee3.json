@@ -651,6 +651,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_helmet_base": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_netherite": {
     "criteria": {
       "has_req": "2025-08-01 00:00:35 +0000"
@@ -1865,6 +1871,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_leggings_base": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2025-07-21 22:52:19 +0000"
@@ -1916,6 +1928,12 @@
   "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
     "criteria": {
       "has_req": "2025-07-20 03:34:06 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_arrow": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
     },
     "done": true
   },
@@ -2300,6 +2318,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_boots_base_alt": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
     },
     "done": true
   },
@@ -2798,6 +2822,12 @@
   "tconstruct:recipes/tconstruct/world/common/slime/earth/crystal_growing": {
     "criteria": {
       "has_dirt": "2025-07-19 03:00:07 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_boots_base": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
     },
     "done": true
   },
@@ -4295,6 +4325,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/dragon_smithing": {
+    "criteria": {
+      "has_dragon": "2025-08-01 05:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-20 18:15:24 +0000"
@@ -4649,6 +4685,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_helmet_base_alt": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-19 01:46:12 +0000"
@@ -4760,6 +4802,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-20 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_chestplate_base": {
+    "criteria": {
+      "has_req": "2025-08-01 05:54:58 +0000"
     },
     "done": true
   },
