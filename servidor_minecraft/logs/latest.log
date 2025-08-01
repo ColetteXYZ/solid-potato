@@ -671,3 +671,19 @@
 [01Aug2025 05:59:50.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Ender Distancing]
 [01Aug2025 05:59:54.192] [Server thread/INFO] [armorplus/]: Charge at: 29
 [01Aug2025 05:59:56.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Capsid-19]
+[01Aug2025 06:01:27.542] [Server thread/INFO] [armorplus/]: Charge at: 96
+[01Aug2025 06:01:29.095] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 06:01:30.441] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 06:01:32.045] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 06:01:33.488] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 06:01:44.133] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 06:01:45.684] [Server thread/INFO] [armorplus/]: Charge at: 29
+[01Aug2025 06:01:47.088] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 06:05:03.435] [Server thread/INFO] [armorplus/]: Charge at: 34
+[01Aug2025 06:07:07.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[01Aug2025 06:07:07.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 06:08:16.166] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c4f38e8
+[01Aug2025 06:08:16.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:37241] logged in with entity id 216412 at (-747.103543121552, 6.070218350513081, 905.1870884133525)
+[01Aug2025 06:08:16.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 06:08:16.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
+[01Aug2025 06:09:45.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode

@@ -1084,6 +1084,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-08-01 05:59:50 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_mace": {
     "criteria": {
       "has_req": "2025-07-20 05:54:23 +0000"
@@ -1799,6 +1805,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-19 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-08-01 05:59:56 +0000"
     },
     "done": true
   },
@@ -2681,9 +2693,21 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/enderiophage_rocket": {
+    "criteria": {
+      "has_items": "2025-08-01 05:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-19 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-08-01 05:57:18 +0000"
     },
     "done": true
   },
@@ -2864,6 +2888,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-07-20 22:18:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-01 05:58:49 +0000"
     },
     "done": true
   },
