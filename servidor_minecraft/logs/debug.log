@@ -7009,3 +7009,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [01Aug2025 06:26:38.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 0.5102579927980742,-32.0,-2.7396550452340307
 [01Aug2025 06:28:55.170] [Server thread/INFO] [armorplus/]: Charge at: 105
 [01Aug2025 06:29:37.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 5.997116217472808,-20.0,5.724714044841676
+[01Aug2025 06:30:17.166] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 06:30:19.275] [Server thread/INFO] [armorplus/]: Charge at: 40
+[01Aug2025 06:30:20.831] [Server thread/INFO] [armorplus/]: Charge at: 29
+[01Aug2025 06:30:44.777] [Server thread/INFO] [armorplus/]: Charge at: 49
+[01Aug2025 06:30:46.473] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 06:30:48.066] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 06:30:49.619] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 06:30:50.969] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 06:30:52.268] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 06:31:31.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 06:31:31.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 06:32:25.820] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 06:32:27.213] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 06:36:31.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 06:36:31.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 06:37:19.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
