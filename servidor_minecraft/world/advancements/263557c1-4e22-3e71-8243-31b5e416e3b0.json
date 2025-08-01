@@ -3640,12 +3640,15 @@
       "minecraft:blaze": "2025-07-21 23:32:56 +0000",
       "minecraft:pillager": "2025-08-01 00:56:52 +0000",
       "minecraft:skeleton": "2025-07-19 01:35:44 +0000",
+      "minecraft:ravager": "2025-08-01 01:38:44 +0000",
       "minecraft:ghast": "2025-07-21 23:06:41 +0000",
       "minecraft:hoglin": "2025-07-21 23:22:16 +0000",
+      "minecraft:vindicator": "2025-08-01 01:37:03 +0000",
       "minecraft:magma_cube": "2025-07-21 02:14:42 +0000",
       "minecraft:spider": "2025-07-19 06:10:39 +0000",
       "minecraft:piglin_brute": "2025-07-22 00:08:57 +0000",
       "minecraft:creeper": "2025-07-19 01:14:36 +0000",
+      "minecraft:evoker": "2025-08-01 01:41:26 +0000",
       "minecraft:zombified_piglin": "2025-07-21 02:37:38 +0000",
       "minecraft:witch": "2025-07-19 01:44:43 +0000",
       "minecraft:wither_skeleton": "2025-07-21 23:30:54 +0000",
@@ -4733,6 +4736,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-19 03:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-01 01:47:45 +0000"
     },
     "done": true
   },
