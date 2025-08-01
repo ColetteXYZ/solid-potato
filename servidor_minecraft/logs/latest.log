@@ -726,3 +726,20 @@
 [01Aug2025 06:49:35.758] [Server thread/INFO] [armorplus/]: Charge at: 25
 [01Aug2025 06:49:37.149] [Server thread/INFO] [armorplus/]: Charge at: 24
 [01Aug2025 06:49:43.551] [Server thread/INFO] [armorplus/]: Charge at: 127
+[01Aug2025 06:50:55.297] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 06:51:09.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Sky's the Limit]
+[01Aug2025 06:51:37.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Sky's the Limit]
+[01Aug2025 06:53:11.899] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 06:53:13.247] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 06:53:16.308] [Server thread/INFO] [armorplus/]: Charge at: 39
+[01Aug2025 06:53:20.303] [Server thread/INFO] [armorplus/]: Charge at: 79
+[01Aug2025 06:53:33.250] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 06:55:07.352] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 06:55:08.750] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 06:55:10.399] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 06:55:12.002] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 06:55:13.697] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 06:55:17.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Enderman
+[01Aug2025 06:56:02.346] [Server thread/INFO] [armorplus/]: Charge at: 16
+[01Aug2025 06:56:06.397] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 06:57:54.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -6.882404099520954,-10.0,6.969766010432068
