@@ -417,3 +417,15 @@
 [01Aug2025 02:21:08.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [01Aug2025 02:23:55.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 10 experience levels to DiamondKingX
 [01Aug2025 02:24:32.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> DE
+[01Aug2025 02:28:23.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
+[01Aug2025 02:28:23.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:29:48.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@727b216
+[01Aug2025 02:29:49.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:35637] logged in with entity id 112999 at (1338.5120737407713, 46.0, 755.4546269287079)
+[01Aug2025 02:29:49.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:30:19.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
+[01Aug2025 02:30:19.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:31:00.195] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f148c50
+[01Aug2025 02:31:00.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:41969] logged in with entity id 113216 at (1338.5120737407713, 46.0, 755.4546269287079)
+[01Aug2025 02:31:00.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:36:19.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 10 experience levels to DiamondKingX
+[01Aug2025 02:36:35.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 3 experience levels to DiamondKingX
