@@ -5319,6 +5319,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-08-01 07:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-19 01:42:08 +0000"
