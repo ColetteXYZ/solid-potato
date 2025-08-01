@@ -572,3 +572,61 @@
 [01Aug2025 05:29:07.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -887.4715256246536,16.464159374955443,-7822.849370771645
 [01Aug2025 05:29:10.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
 [01Aug2025 05:29:10.548] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[01Aug2025 05:30:23.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [You Need a Mint]
+[01Aug2025 05:31:44.909] [Server thread/INFO] [armorplus/]: Charge at: 89
+[01Aug2025 05:31:49.508] [Server thread/INFO] [armorplus/]: Charge at: 59
+[01Aug2025 05:31:54.158] [Server thread/INFO] [armorplus/]: Charge at: 51
+[01Aug2025 05:34:39.801] [Server thread/INFO] [armorplus/]: Charge at: 50
+[01Aug2025 05:34:45.461] [Server thread/INFO] [armorplus/]: Charge at: 67
+[01Aug2025 05:34:50.658] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 05:35:34.365] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 05:36:00.962] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 05:36:03.659] [Server thread/INFO] [armorplus/]: Charge at: 52
+[01Aug2025 05:36:07.108] [Server thread/INFO] [armorplus/]: Charge at: 64
+[01Aug2025 05:36:09.909] [Server thread/INFO] [armorplus/]: Charge at: 51
+[01Aug2025 05:36:12.561] [Server thread/INFO] [armorplus/]: Charge at: 50
+[01Aug2025 05:36:15.008] [Server thread/INFO] [armorplus/]: Charge at: 44
+[01Aug2025 05:36:18.058] [Server thread/INFO] [armorplus/]: Charge at: 45
+[01Aug2025 05:36:20.602] [Server thread/INFO] [armorplus/]: Charge at: 40
+[01Aug2025 05:36:47.303] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 05:36:49.262] [Server thread/INFO] [armorplus/]: Charge at: 37
+[01Aug2025 05:36:51.661] [Server thread/INFO] [armorplus/]: Charge at: 46
+[01Aug2025 05:36:53.212] [Server thread/INFO] [armorplus/]: Charge at: 29
+[01Aug2025 05:36:54.988] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 05:37:02.464] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 05:37:04.413] [Server thread/INFO] [armorplus/]: Charge at: 37
+[01Aug2025 05:37:06.208] [Server thread/INFO] [armorplus/]: Charge at: 34
+[01Aug2025 05:37:08.708] [Server thread/INFO] [armorplus/]: Charge at: 48
+[01Aug2025 05:37:10.508] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:37:12.366] [Server thread/INFO] [armorplus/]: Charge at: 36
+[01Aug2025 05:38:04.915] [Server thread/INFO] [armorplus/]: Charge at: 45
+[01Aug2025 05:38:06.758] [Server thread/INFO] [armorplus/]: Charge at: 35
+[01Aug2025 05:38:08.402] [Server thread/INFO] [armorplus/]: Charge at: 29
+[01Aug2025 05:38:10.075] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 05:38:11.508] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:38:12.908] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 05:38:14.312] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 05:38:17.445] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 05:38:19.044] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:38:26.164] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:38:27.811] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 05:38:46.814] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 05:38:54.964] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:38:56.674] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 05:38:59.452] [Server thread/INFO] [armorplus/]: Charge at: 54
+[01Aug2025 05:39:01.108] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 05:39:02.860] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 05:39:04.302] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 05:39:05.860] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 05:39:07.303] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:39:09.116] [Server thread/INFO] [armorplus/]: Charge at: 35
+[01Aug2025 05:39:10.508] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 05:39:12.158] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 05:39:13.708] [Server thread/INFO] [armorplus/]: Charge at: 29
+[01Aug2025 05:39:14.960] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 05:39:16.408] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 05:39:17.608] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 05:39:18.760] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 05:39:20.165] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 05:39:21.658] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 05:39:30.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Free the End]

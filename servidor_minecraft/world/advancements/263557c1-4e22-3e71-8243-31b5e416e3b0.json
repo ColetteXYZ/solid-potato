@@ -1610,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-01 05:29:25 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-07-20 05:46:38 +0000"
@@ -2801,6 +2807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-01 05:29:25 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
     "criteria": {
       "has_req": "2025-07-19 02:06:33 +0000"
@@ -2858,6 +2870,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-07-20 21:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-01 05:29:25 +0000"
     },
     "done": true
   },
@@ -3557,6 +3575,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-08-01 05:30:23 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_battle_axe": {
     "criteria": {
       "has_req": "2025-07-19 00:54:15 +0000"
@@ -3869,6 +3893,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-21 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-01 05:29:04 +0000"
     },
     "done": true
   },
@@ -5628,6 +5658,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-01 05:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-01 05:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-07-19 01:08:47 +0000"
@@ -6189,6 +6231,12 @@
   "supplementaries:recipes/hanging_sign_minecraft/dark_oak": {
     "criteria": {
       "has_plank": "2025-07-31 23:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-01 05:29:04 +0000"
     },
     "done": true
   },
