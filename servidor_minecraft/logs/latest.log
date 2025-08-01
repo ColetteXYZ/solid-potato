@@ -371,3 +371,21 @@
 [01Aug2025 01:54:48.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp 30 levels diamondkingx<--[HERE]
 [01Aug2025 01:55:19.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
 [01Aug2025 01:55:19.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...xperience 30 levels diamondkingx<--[HERE]
+[01Aug2025 01:56:18.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected integer
+[01Aug2025 01:56:18.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx  30 levels<--[HERE]
+[01Aug2025 01:56:31.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected integer
+[01Aug2025 01:56:31.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx  30 levels<--[HERE]
+[01Aug2025 01:56:36.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 experience levels to DiamondKingX
+[01Aug2025 01:58:13.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[01Aug2025 01:58:49.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01Aug2025 01:58:54.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[01Aug2025 01:59:22.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[01Aug2025 01:59:22.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 01:59:32.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70ca0524
+[01Aug2025 01:59:32.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:39299] logged in with entity id 93443 at (1342.5040897145839, 46.0, 724.8167259106657)
+[01Aug2025 01:59:32.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:03:25.189] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 02:03:41.013] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 02:04:27.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[01Aug2025 02:04:37.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.025485014812602458,-11.558953062305577,0.0
+[01Aug2025 02:04:54.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
