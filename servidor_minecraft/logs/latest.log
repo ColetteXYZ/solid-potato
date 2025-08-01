@@ -552,3 +552,9 @@
 [01Aug2025 03:41:19.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
 [01Aug2025 03:41:19.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
 [01Aug2025 04:52:05.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> hola
+[01Aug2025 05:01:22.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a31b37a
+[01Aug2025 05:01:22.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:57011] logged in with entity id 195107 at (1337.7219584497477, 46.0, 738.4311469246917)
+[01Aug2025 05:01:22.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[01Aug2025 05:01:31.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
+[01Aug2025 05:07:09.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.06471101365877985,-10.5291936452913,-0.071024488216608
+[01Aug2025 05:08:28.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
