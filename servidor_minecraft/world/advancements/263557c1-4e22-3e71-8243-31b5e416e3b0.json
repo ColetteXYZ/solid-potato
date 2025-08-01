@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-08-01 06:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-19 01:48:38 +0000"

@@ -6983,3 +6983,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [01Aug2025 06:08:16.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
 [01Aug2025 06:08:20.968] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754028500967
 [01Aug2025 06:09:45.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[01Aug2025 06:11:31.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 06:11:31.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 06:15:37.774] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 06:15:53.325] [Server thread/INFO] [armorplus/]: Charge at: 16
+[01Aug2025 06:15:56.480] [Server thread/INFO] [armorplus/]: Charge at: 17
+[01Aug2025 06:15:57.830] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 06:16:02.485] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 06:16:05.881] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 06:16:07.189] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 06:16:31.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 06:16:31.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 06:17:11.526] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 06:17:15.482] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 06:17:18.575] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 06:18:41.426] [Server thread/INFO] [armorplus/]: Charge at: 21
