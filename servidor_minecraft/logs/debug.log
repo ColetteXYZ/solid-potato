@@ -7125,3 +7125,181 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [01Aug2025 07:38:57.317] [Server thread/INFO] [armorplus/]: Charge at: 27
 [01Aug2025 07:40:27.173] [Server thread/INFO] [armorplus/]: Charge at: 33
 [01Aug2025 07:40:29.037] [Server thread/INFO] [armorplus/]: Charge at: 35
+[01Aug2025 07:40:56.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:56.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:56.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:56.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:56.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:56.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.074] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:40:57.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:57.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.572] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 07:40:58.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:58.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:40:59.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.165] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 07:41:00.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:00.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:01.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:01.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:01.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:01.770] [Server thread/INFO] [armorplus/]: Charge at: 29
+[01Aug2025 07:41:02.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:02.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:02.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:02.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:02.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:02.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:02.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:03.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:04.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:05.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:06.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:06.162] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:06.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:06.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:10.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:11.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:12.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:12.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:12.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:12.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:12.463] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:12.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2025 07:41:19.964] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:41:22.915] [Server thread/INFO] [armorplus/]: Charge at: 38
+[01Aug2025 07:41:28.715] [Server thread/INFO] [armorplus/]: Charge at: 15
+[01Aug2025 07:41:30.783] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:41:31.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 07:41:31.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 07:41:34.973] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 07:41:36.118] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:41:37.813] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 07:41:39.617] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 07:41:41.124] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 07:41:42.563] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 07:41:44.214] [Server thread/INFO] [armorplus/]: Charge at: 30
+[01Aug2025 07:41:45.667] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 07:43:29.017] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:44:03.116] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 07:44:05.214] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 07:44:06.566] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 07:44:17.763] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 07:44:19.016] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:44:21.075] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:44:21.873] [Server thread/INFO] [armorplus/]: Charge at: 15
+[01Aug2025 07:44:22.622] [Server thread/INFO] [armorplus/]: Charge at: 12
+[01Aug2025 07:45:52.406] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/237121, l='ServerLevel[world]', x=2020.50, y=50.00, z=7538.50]
+[01Aug2025 07:45:58.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 1.3236836338119247,-0.3499999999999801,-10.902404421888605
+[01Aug2025 07:45:58.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 9.119283595950264,6.426625225268097,-0.09231608701247751
+[01Aug2025 07:46:06.117] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 07:46:07.469] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 07:46:08.773] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 07:46:09.829] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 07:46:10.931] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:46:12.022] [Server thread/INFO] [armorplus/]: Charge at: 19
+[01Aug2025 07:46:13.520] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 07:46:15.073] [Server thread/INFO] [armorplus/]: Charge at: 17
+[01Aug2025 07:46:31.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 07:46:31.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 07:47:26.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Aug2025 07:47:45.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3475ms or 69 ticks behind
+[01Aug2025 07:48:30.395] [Server thread/INFO] [armorplus/]: Charge at: 37
+[01Aug2025 07:48:43.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Aug2025 07:49:07.193] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 07:49:08.816] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 07:49:10.390] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 07:49:12.146] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 07:49:13.864] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 07:49:15.202] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 07:49:19.394] [Server thread/INFO] [armorplus/]: Charge at: 80
+[01Aug2025 07:49:24.642] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:49:46.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01Aug2025 07:50:17.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01Aug2025 07:51:07.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01Aug2025 07:51:46.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 07:51:46.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 07:51:49.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Aug2025 07:52:49.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [The Twelve Labors of Hercules]
+[01Aug2025 07:56:46.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 07:56:46.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 08:01:03.596] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754035263596
