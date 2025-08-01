@@ -3358,3 +3358,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [31Jul2025 23:53:04.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4269ms or 85 ticks behind
 [31Jul2025 23:53:23.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 948.500000, 90.000000, 7841.500000
 [31Jul2025 23:53:26.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7156ms or 143 ticks behind
+[31Jul2025 23:53:46.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[31Jul2025 23:54:46.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/13574, l='ServerLevel[world]', x=1347.38, y=100.00, z=7711.49]
+[31Jul2025 23:55:09.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 23:55:09.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 23:56:01.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[31Jul2025 23:57:12.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[31Jul2025 23:57:30.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[31Jul2025 23:57:50.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4436ms or 88 ticks behind
+[31Jul2025 23:58:12.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7149ms or 142 ticks behind
+[31Jul2025 23:58:35.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8162ms or 163 ticks behind
+[31Jul2025 23:58:57.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7141ms or 142 ticks behind
+[31Jul2025 23:59:22.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9885ms or 197 ticks behind
+[31Jul2025 23:59:50.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12835ms or 256 ticks behind
+[01Aug2025 00:00:16.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10724ms or 214 ticks behind
+[01Aug2025 00:00:41.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10391ms or 207 ticks behind
+[01Aug2025 00:01:09.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12952ms or 259 ticks behind
+[01Aug2025 00:01:39.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14785ms or 295 ticks behind
+[01Aug2025 00:02:09.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 00:02:09.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 00:02:11.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17240ms or 344 ticks behind
+[01Aug2025 00:02:39.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13390ms or 267 ticks behind
+[01Aug2025 00:03:08.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14130ms or 282 ticks behind
+[01Aug2025 00:03:36.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13247ms or 264 ticks behind

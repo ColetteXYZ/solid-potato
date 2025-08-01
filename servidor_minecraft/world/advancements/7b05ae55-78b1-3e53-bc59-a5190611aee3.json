@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-07-30 04:56:44 +0000"
@@ -507,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-19 01:55:10 +0000"
@@ -597,6 +609,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_netherite": {
+    "criteria": {
+      "has_req": "2025-08-01 00:00:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/gold_platform": {
     "criteria": {
       "has_gold": "2025-07-20 21:13:49 +0000"
@@ -618,6 +636,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-19 01:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -660,6 +684,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-20 17:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -1008,6 +1038,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-19 01:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -1817,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/lapis/lapis_boots": {
     "criteria": {
       "has_req": "2025-07-30 04:53:21 +0000"
@@ -1868,6 +1910,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-21 22:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -1994,6 +2042,12 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_leggings": {
     "criteria": {
       "has_req": "2025-07-19 01:02:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -2219,6 +2273,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-30 00:58:16 +0000"
@@ -2414,6 +2474,12 @@
   "armorplus:recipes/armorplus.items/crafting/shapeless/wooden_rod_adv": {
     "criteria": {
       "has_req": "2025-07-19 00:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -3381,6 +3447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-31 23:59:40 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/lapis/lapis_chestplate": {
     "criteria": {
       "has_req": "2025-07-30 04:53:21 +0000"
@@ -3528,6 +3600,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-19 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -3783,6 +3861,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-21 22:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
@@ -4446,6 +4530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-07-21 22:29:18 +0000"
@@ -4689,6 +4779,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-20 21:13:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-01 00:00:35 +0000"
     },
     "done": true
   },
