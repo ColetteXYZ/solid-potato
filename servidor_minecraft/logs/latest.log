@@ -743,3 +743,41 @@
 [01Aug2025 06:56:02.346] [Server thread/INFO] [armorplus/]: Charge at: 16
 [01Aug2025 06:56:06.397] [Server thread/INFO] [armorplus/]: Charge at: 20
 [01Aug2025 06:57:54.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -6.882404099520954,-10.0,6.969766010432068
+[01Aug2025 07:11:57.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[01Aug2025 07:13:29.339] [Server thread/INFO] [armorplus/]: Charge at: 15
+[01Aug2025 07:13:31.186] [Server thread/INFO] [armorplus/]: Charge at: 35
+[01Aug2025 07:13:32.535] [Server thread/INFO] [armorplus/]: Charge at: 17
+[01Aug2025 07:13:33.883] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:13:35.137] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:13:36.437] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:13:37.930] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 07:13:39.281] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:13:40.730] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 07:13:41.834] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 07:13:42.984] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:13:44.134] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:13:45.082] [Server thread/INFO] [armorplus/]: Charge at: 17
+[01Aug2025 07:13:45.739] [Server thread/INFO] [armorplus/]: Charge at: 12
+[01Aug2025 07:13:46.335] [Server thread/INFO] [armorplus/]: Charge at: 10
+[01Aug2025 07:13:46.782] [Server thread/INFO] [armorplus/]: Charge at: 8
+[01Aug2025 07:13:47.684] [Server thread/INFO] [armorplus/]: Charge at: 15
+[01Aug2025 07:13:48.288] [Server thread/INFO] [armorplus/]: Charge at: 10
+[01Aug2025 07:13:49.086] [Server thread/INFO] [armorplus/]: Charge at: 14
+[01Aug2025 07:13:49.738] [Server thread/INFO] [armorplus/]: Charge at: 11
+[01Aug2025 07:13:50.336] [Server thread/INFO] [armorplus/]: Charge at: 10
+[01Aug2025 07:13:53.281] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:13:54.434] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:13:55.731] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 07:13:57.384] [Server thread/INFO] [armorplus/]: Charge at: 17
+[01Aug2025 07:13:58.679] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 07:14:00.386] [Server thread/INFO] [armorplus/]: Charge at: 16
+[01Aug2025 07:14:44.590] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 07:14:48.432] [Server thread/INFO] [armorplus/]: Charge at: 19
+[01Aug2025 07:14:49.690] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 07:14:51.183] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:14:52.334] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 07:15:00.496] [Server thread/INFO] [armorplus/]: Charge at: 17
+[01Aug2025 07:15:02.330] [Server thread/INFO] [armorplus/]: Charge at: 19
+[01Aug2025 07:15:03.731] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 07:15:04.937] [Server thread/INFO] [armorplus/]: Charge at: 15
+[01Aug2025 07:17:34.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -4.196214097036545,-6.0,-7.356605548947755
