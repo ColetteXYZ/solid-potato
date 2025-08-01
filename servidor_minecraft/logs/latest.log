@@ -389,3 +389,26 @@
 [01Aug2025 02:04:27.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
 [01Aug2025 02:04:37.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.025485014812602458,-11.558953062305577,0.0
 [01Aug2025 02:04:54.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[01Aug2025 02:06:48.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[01Aug2025 02:06:48.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[01Aug2025 02:06:53.491] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d820cf5
+[01Aug2025 02:06:53.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:46335] logged in with entity id 98475 at (1326.7194262876064, 46.0, 756.231910266751)
+[01Aug2025 02:06:53.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[01Aug2025 02:13:16.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[01Aug2025 02:13:16.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:13:30.943] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59efb653
+[01Aug2025 02:13:30.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:55267] logged in with entity id 102282 at (1340.451885239103, 48.0, 738.1116512481057)
+[01Aug2025 02:13:30.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:14:01.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
+[01Aug2025 02:14:01.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:14:01.091] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2025 02:14:42.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cdae43f
+[01Aug2025 02:14:42.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:53013] logged in with entity id 103272 at (1340.451885239103, 48.0, 738.1116512481057)
+[01Aug2025 02:14:42.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:15:12.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
+[01Aug2025 02:15:12.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:16:04.711] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26a2d9e6
+[01Aug2025 02:16:04.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:57795] logged in with entity id 103895 at (1340.451885239103, 48.0, 738.1116512481057)
+[01Aug2025 02:16:04.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:16:34.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
+[01Aug2025 02:16:34.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
