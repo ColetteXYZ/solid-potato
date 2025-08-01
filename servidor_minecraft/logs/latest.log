@@ -225,3 +225,7 @@
 [01Aug2025 01:25:33.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [01Aug2025 01:25:33.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [01Aug2025 01:25:33.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:26:37.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[01Aug2025 01:32:09.541] [Server thread/INFO] [armorplus/]: Charge at: 42
+[01Aug2025 01:32:13.285] [Server thread/INFO] [armorplus/]: Charge at: 35
+[01Aug2025 01:32:14.686] [Server thread/INFO] [armorplus/]: Charge at: 14

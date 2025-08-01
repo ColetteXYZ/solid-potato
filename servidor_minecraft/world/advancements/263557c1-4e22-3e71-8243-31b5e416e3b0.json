@@ -529,6 +529,12 @@
     },
     "done": true
   },
+  "tconstruct:world/clay_island": {
+    "criteria": {
+      "found_island": "2025-08-01 01:23:10 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/frost_lava/frost_lava_boots": {
     "criteria": {
       "has_req": "2025-07-30 04:35:44 +0000"
