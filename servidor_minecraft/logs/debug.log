@@ -7111,3 +7111,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [01Aug2025 07:26:31.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2025 07:26:31.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Aug2025 07:29:55.144] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754033395144
+[01Aug2025 07:30:51.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 1.9742370404320582,-10.0,0.8241493752848328
+[01Aug2025 07:31:31.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 07:31:31.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 07:34:53.940] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754033693940
+[01Aug2025 07:36:31.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 07:36:31.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 07:38:32.578] [Server thread/INFO] [armorplus/]: Charge at: 40
+[01Aug2025 07:38:33.970] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 07:38:52.472] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 07:38:54.157] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 07:38:55.916] [Server thread/INFO] [armorplus/]: Charge at: 34
+[01Aug2025 07:38:57.317] [Server thread/INFO] [armorplus/]: Charge at: 27
+[01Aug2025 07:40:27.173] [Server thread/INFO] [armorplus/]: Charge at: 33
+[01Aug2025 07:40:29.037] [Server thread/INFO] [armorplus/]: Charge at: 35
