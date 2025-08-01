@@ -1122,3 +1122,6 @@
 [01Aug2025 09:06:52.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [01Aug2025 09:11:17.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] aña
 [01Aug2025 09:11:42.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] le dije ig de la minita encara messi sos relinda
+[01Aug2025 09:13:04.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01Aug2025 09:20:45.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[01Aug2025 09:20:45.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
