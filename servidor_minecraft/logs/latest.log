@@ -412,3 +412,8 @@
 [01Aug2025 02:16:04.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
 [01Aug2025 02:16:34.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
 [01Aug2025 02:16:34.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 02:21:08.251] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e005bdb
+[01Aug2025 02:21:08.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:58291] logged in with entity id 110160 at (1340.451885239103, 48.0, 738.1116512481057)
+[01Aug2025 02:21:08.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 02:23:55.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 10 experience levels to DiamondKingX
+[01Aug2025 02:24:32.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> DE
