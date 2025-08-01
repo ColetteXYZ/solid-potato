@@ -100,3 +100,48 @@
 [01Aug2025 00:33:51.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
 [01Aug2025 00:34:10.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
 [01Aug2025 00:34:29.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3856ms or 77 ticks behind
+[01Aug2025 00:34:48.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3848ms or 76 ticks behind
+[01Aug2025 00:35:07.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4521ms or 90 ticks behind
+[01Aug2025 00:35:26.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[01Aug2025 00:35:46.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
+[01Aug2025 00:36:04.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[01Aug2025 00:41:48.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:41:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:41:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:41:59.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -1.0580983834481685,7.965013738174179,18.46618489972184
+[01Aug2025 00:42:12.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:43:45.396] [Server thread/INFO] [armorplus/]: Charge at: 54
+[01Aug2025 00:43:49.140] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 00:44:59.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:46:01.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:46:14.651] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 00:46:16.588] [Server thread/INFO] [armorplus/]: Charge at: 23
+[01Aug2025 00:46:17.936] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 00:46:19.043] [Server thread/INFO] [armorplus/]: Charge at: 16
+[01Aug2025 00:46:20.137] [Server thread/INFO] [armorplus/]: Charge at: 15
+[01Aug2025 00:46:30.438] [Server thread/INFO] [armorplus/]: Charge at: 35
+[01Aug2025 00:46:32.043] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 00:46:36.186] [Server thread/INFO] [armorplus/]: Charge at: 19
+[01Aug2025 00:46:45.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:46:53.189] [Server thread/INFO] [armorplus/]: Charge at: 48
+[01Aug2025 00:46:54.437] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 00:46:55.785] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 00:47:01.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[01Aug2025 00:47:01.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[01Aug2025 00:48:31.185] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b5f2628
+[01Aug2025 00:48:31.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:51587] logged in with entity id 53701 at (1781.423118351805, 64.0, 1580.053540858924)
+[01Aug2025 00:48:31.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[01Aug2025 00:50:49.643] [Server thread/INFO] [armorplus/]: Charge at: 75
+[01Aug2025 00:50:51.043] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 00:50:52.194] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 00:50:56.343] [Server thread/INFO] [armorplus/]: Charge at: 19
+[01Aug2025 00:50:57.804] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 00:50:59.344] [Server thread/INFO] [armorplus/]: Charge at: 14
+[01Aug2025 00:51:00.708] [Server thread/INFO] [armorplus/]: Charge at: 18
+[01Aug2025 00:51:02.793] [Server thread/INFO] [armorplus/]: Charge at: 32
+[01Aug2025 00:51:04.595] [Server thread/INFO] [armorplus/]: Charge at: 20
+[01Aug2025 00:51:06.294] [Server thread/INFO] [armorplus/]: Charge at: 21
+[01Aug2025 00:51:32.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:52:33.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Voluntary Exile]
+[01Aug2025 00:53:09.184] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 00:54:10.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
