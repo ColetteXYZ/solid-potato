@@ -182,3 +182,46 @@
 [01Aug2025 01:03:32.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
 [01Aug2025 01:04:33.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
 [01Aug2025 01:04:59.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:06:00.317] [Server thread/INFO] [armorplus/]: Charge at: 1
+[01Aug2025 01:06:00.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Ol' Betsy]
+[01Aug2025 01:07:36.419] [Server thread/INFO] [armorplus/]: Charge at: 94
+[01Aug2025 01:07:49.722] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ae390d
+[01Aug2025 01:07:49.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:50001] logged in with entity id 68848 at (1713.8096881959377, 68.0, 1552.7071960155126)
+[01Aug2025 01:07:49.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 01:07:55.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:08:25.821] [Server thread/INFO] [armorplus/]: Charge at: 156
+[01Aug2025 01:08:27.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Voluntary Exile]
+[01Aug2025 01:08:44.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[01Aug2025 01:08:44.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[01Aug2025 01:09:17.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:10:38.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:10:39.525] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 01:10:42.024] [Server thread/INFO] [armorplus/]: Charge at: 47
+[01Aug2025 01:10:45.227] [Server thread/INFO] [armorplus/]: Charge at: 44
+[01Aug2025 01:11:23.772] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b492db2
+[01Aug2025 01:11:23.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:59047] logged in with entity id 70088 at (1766.4466910720591, 68.0, 1569.2118905184193)
+[01Aug2025 01:11:23.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[01Aug2025 01:11:45.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:12:14.018] [Server thread/INFO] [armorplus/]: Charge at: 42
+[01Aug2025 01:12:15.872] [Server thread/INFO] [armorplus/]: Charge at: 14
+[01Aug2025 01:12:18.171] [Server thread/INFO] [armorplus/]: Charge at: 31
+[01Aug2025 01:12:20.318] [Server thread/INFO] [armorplus/]: Charge at: 14
+[01Aug2025 01:12:22.167] [Server thread/INFO] [armorplus/]: Charge at: 19
+[01Aug2025 01:12:23.118] [Server thread/INFO] [armorplus/]: Charge at: 5
+[01Aug2025 01:12:24.219] [Server thread/INFO] [armorplus/]: Charge at: 11
+[01Aug2025 01:12:25.768] [Server thread/INFO] [armorplus/]: Charge at: 10
+[01Aug2025 01:12:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:20:36.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[01Aug2025 01:20:36.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[01Aug2025 01:20:41.618] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@499f48f4
+[01Aug2025 01:20:41.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:52857] logged in with entity id 73158 at (1960.7135444971902, 63.0, 1284.9273229536193)
+[01Aug2025 01:20:41.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[01Aug2025 01:23:10.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Clay Island]
+[01Aug2025 01:23:11.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:23:33.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[01Aug2025 01:23:46.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Clay Island]
+[01Aug2025 01:25:08.580] [Server thread/INFO] [armorplus/]: Charge at: 2
+[01Aug2025 01:25:28.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:25:33.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:25:33.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[01Aug2025 01:25:33.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already

@@ -3725,6 +3725,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-01 01:08:27 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_mace": {
     "criteria": {
       "has_req": "2025-07-21 07:22:04 +0000"
