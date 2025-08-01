@@ -7025,3 +7025,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [01Aug2025 06:36:31.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2025 06:36:31.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Aug2025 06:37:19.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[01Aug2025 06:41:31.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
+[01Aug2025 06:41:31.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 06:41:31.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 06:42:41.259] [Server thread/INFO] [armorplus/]: Charge at: 26
+[01Aug2025 06:46:31.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 06:46:31.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 06:49:04.608] [Server thread/INFO] [armorplus/]: Charge at: 37
+[01Aug2025 06:49:08.958] [Server thread/INFO] [armorplus/]: Charge at: 44
+[01Aug2025 06:49:30.303] [Server thread/INFO] [armorplus/]: Charge at: 22
+[01Aug2025 06:49:34.158] [Server thread/INFO] [armorplus/]: Charge at: 28
+[01Aug2025 06:49:35.758] [Server thread/INFO] [armorplus/]: Charge at: 25
+[01Aug2025 06:49:37.149] [Server thread/INFO] [armorplus/]: Charge at: 24
+[01Aug2025 06:49:43.551] [Server thread/INFO] [armorplus/]: Charge at: 127
