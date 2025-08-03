@@ -292,3 +292,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [03Aug2025 22:06:15.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@378a3ffc[id=<null>,name=ninouzumaki,properties={},legacy=false] (/127.222.81.109:46791) lost connection: Connection closed - mismatched mod channel list
 [03Aug2025 22:06:52.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [03Aug2025 22:07:43.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Aug2025 22:08:33.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Aug2025 22:08:48.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
+[03Aug2025 22:08:48.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[03Aug2025 22:08:48.606] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Aug2025 22:09:08.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5de45a0d
+[03Aug2025 22:09:09.007] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:46877] logged in with entity id 27271 at (3396.1918730427465, 65.0, -228.39119312530795)
+[03Aug2025 22:09:09.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
+[03Aug2025 22:09:15.815] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5494d0ea
+[03Aug2025 22:09:15.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:50179] logged in with entity id 27437 at (2494.059584100184, 0.0, 7403.036721045374)
+[03Aug2025 22:09:15.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[03Aug2025 22:10:09.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Aug2025 22:10:35.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:10:38.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> reparacion 6 , irrom 3 6, Proteccion 4 4
+[03Aug2025 22:10:55.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5290ms or 105 ticks behind
+[03Aug2025 22:11:15.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4649ms or 92 ticks behind
+[03Aug2025 22:11:26.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ninouzumaki> reparacion 6 , irrom 3 6, Proteccion 4 4
+[03Aug2025 22:11:32.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[03Aug2025 22:11:50.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[03Aug2025 22:12:08.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[03Aug2025 22:12:27.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
+[03Aug2025 22:12:45.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 0.0,10.465000184059129,0.0
+[03Aug2025 22:12:47.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
+[03Aug2025 22:13:06.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+[03Aug2025 22:13:27.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6228ms or 124 ticks behind
+[03Aug2025 22:13:47.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4477ms or 89 ticks behind
+[03Aug2025 22:14:07.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
+[03Aug2025 22:14:27.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5548ms or 110 ticks behind
+[03Aug2025 22:14:49.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
+[03Aug2025 22:15:10.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6132ms or 122 ticks behind
+[03Aug2025 22:15:30.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[03Aug2025 22:15:51.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5996ms or 119 ticks behind
+[03Aug2025 22:16:12.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6128ms or 122 ticks behind
+[03Aug2025 22:16:34.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6477ms or 129 ticks behind
+[03Aug2025 22:16:54.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
+[03Aug2025 22:17:14.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[03Aug2025 22:17:34.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4927ms or 98 ticks behind
+[03Aug2025 22:17:55.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6431ms or 128 ticks behind
+[03Aug2025 22:18:14.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
