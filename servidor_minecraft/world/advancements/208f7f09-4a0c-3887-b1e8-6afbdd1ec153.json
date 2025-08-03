@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 22:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-07-20 20:50:53 +0000"
@@ -840,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 22:32:08 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_mace": {
     "criteria": {
       "has_req": "2025-07-21 00:49:08 +0000"
@@ -861,6 +873,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-07-22 19:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-03 22:37:18 +0000"
     },
     "done": true
   },
@@ -2747,6 +2765,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 22:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-19 03:12:36 +0000"
@@ -3463,6 +3487,12 @@
   "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_bow_alt": {
     "criteria": {
       "has_req": "2025-07-28 04:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-03 22:32:08 +0000"
     },
     "done": true
   },
