@@ -1,1148 +1,195 @@
-[01Aug2025 00:00:16.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10724ms or 214 ticks behind
-[01Aug2025 00:00:41.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10391ms or 207 ticks behind
-[01Aug2025 00:01:09.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12952ms or 259 ticks behind
-[01Aug2025 00:01:39.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14785ms or 295 ticks behind
-[01Aug2025 00:02:11.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17240ms or 344 ticks behind
-[01Aug2025 00:02:39.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13390ms or 267 ticks behind
-[01Aug2025 00:03:08.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14130ms or 282 ticks behind
-[01Aug2025 00:03:36.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13247ms or 264 ticks behind
-[01Aug2025 00:04:07.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15340ms or 306 ticks behind
-[01Aug2025 00:04:35.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12822ms or 256 ticks behind
-[01Aug2025 00:05:02.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12844ms or 256 ticks behind
-[01Aug2025 00:05:30.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12239ms or 244 ticks behind
-[01Aug2025 00:05:57.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12269ms or 245 ticks behind
-[01Aug2025 00:06:14.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Cover Me with Diamonds]
-[01Aug2025 00:06:25.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13241ms or 264 ticks behind
-[01Aug2025 00:06:53.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12957ms or 259 ticks behind
-[01Aug2025 00:07:20.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12446ms or 248 ticks behind
-[01Aug2025 00:07:46.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10999ms or 219 ticks behind
-[01Aug2025 00:08:12.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10976ms or 219 ticks behind
-[01Aug2025 00:08:38.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10808ms or 216 ticks behind
-[01Aug2025 00:09:04.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11021ms or 220 ticks behind
-[01Aug2025 00:09:30.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11279ms or 225 ticks behind
-[01Aug2025 00:09:55.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10087ms or 201 ticks behind
-[01Aug2025 00:10:19.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8916ms or 178 ticks behind
-[01Aug2025 00:10:43.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8771ms or 175 ticks behind
-[01Aug2025 00:11:07.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8876ms or 177 ticks behind
-[01Aug2025 00:11:31.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9091ms or 181 ticks behind
-[01Aug2025 00:11:55.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
-[01Aug2025 00:12:19.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9206ms or 184 ticks behind
-[01Aug2025 00:12:43.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9450ms or 189 ticks behind
-[01Aug2025 00:12:46.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 00:12:46.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 00:12:51.101] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53cb7bee
-[01Aug2025 00:12:51.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:32913] logged in with entity id 25889 at (1373.288480780207, 46.0, 738.3000000119209)
-[01Aug2025 00:12:51.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 00:13:16.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 00:13:34.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[01Aug2025 00:13:53.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3809ms or 76 ticks behind
-[01Aug2025 00:14:13.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4596ms or 91 ticks behind
-[01Aug2025 00:14:34.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6676ms or 133 ticks behind
-[01Aug2025 00:14:54.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5063ms or 101 ticks behind
-[01Aug2025 00:15:15.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5598ms or 111 ticks behind
-[01Aug2025 00:15:35.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5204ms or 104 ticks behind
-[01Aug2025 00:15:57.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6993ms or 139 ticks behind
-[01Aug2025 00:16:18.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6468ms or 129 ticks behind
-[01Aug2025 00:16:40.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6614ms or 132 ticks behind
-[01Aug2025 00:17:02.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7033ms or 140 ticks behind
-[01Aug2025 00:17:23.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5769ms or 115 ticks behind
-[01Aug2025 00:17:44.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5948ms or 118 ticks behind
-[01Aug2025 00:18:05.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6704ms or 134 ticks behind
-[01Aug2025 00:18:26.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5365ms or 107 ticks behind
-[01Aug2025 00:18:46.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5552ms or 111 ticks behind
-[01Aug2025 00:19:06.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4758ms or 95 ticks behind
-[01Aug2025 00:19:26.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5477ms or 109 ticks behind
-[01Aug2025 00:19:47.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5518ms or 110 ticks behind
-[01Aug2025 00:20:07.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5128ms or 102 ticks behind
-[01Aug2025 00:20:27.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
-[01Aug2025 00:20:47.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4831ms or 96 ticks behind
-[01Aug2025 00:21:07.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5343ms or 106 ticks behind
-[01Aug2025 00:21:10.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has completed the challenge [Cover Me in Debris]
-[01Aug2025 00:21:29.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6851ms or 137 ticks behind
-[01Aug2025 00:21:42.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
-[01Aug2025 00:21:49.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64 [Bread] to DiamondKingX
-[01Aug2025 00:21:49.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
-[01Aug2025 00:22:08.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
-[01Aug2025 00:22:27.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
-[01Aug2025 00:22:47.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5120ms or 102 ticks behind
-[01Aug2025 00:23:07.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4575ms or 91 ticks behind
-[01Aug2025 00:23:27.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
-[01Aug2025 00:23:49.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7151ms or 143 ticks behind
-[01Aug2025 00:24:10.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6380ms or 127 ticks behind
-[01Aug2025 00:24:31.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5510ms or 110 ticks behind
-[01Aug2025 00:24:52.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6466ms or 129 ticks behind
-[01Aug2025 00:25:12.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
-[01Aug2025 00:25:32.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4587ms or 91 ticks behind
-[01Aug2025 00:25:51.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
-[01Aug2025 00:26:10.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4636ms or 92 ticks behind
-[01Aug2025 00:26:30.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4764ms or 95 ticks behind
-[01Aug2025 00:26:50.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5028ms or 100 ticks behind
-[01Aug2025 00:27:10.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5357ms or 107 ticks behind
-[01Aug2025 00:27:30.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4834ms or 96 ticks behind
-[01Aug2025 00:27:50.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5170ms or 103 ticks behind
-[01Aug2025 00:28:11.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5613ms or 112 ticks behind
-[01Aug2025 00:28:31.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4879ms or 97 ticks behind
-[01Aug2025 00:28:50.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
-[01Aug2025 00:29:09.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
-[01Aug2025 00:29:30.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
-[01Aug2025 00:29:50.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5814ms or 116 ticks behind
-[01Aug2025 00:30:11.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
-[01Aug2025 00:30:32.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
-[01Aug2025 00:30:54.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6688ms or 133 ticks behind
-[01Aug2025 00:31:15.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5698ms or 113 ticks behind
-[01Aug2025 00:31:35.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5654ms or 113 ticks behind
-[01Aug2025 00:31:55.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4492ms or 89 ticks behind
-[01Aug2025 00:32:14.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4201ms or 84 ticks behind
-[01Aug2025 00:32:33.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
-[01Aug2025 00:32:52.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
-[01Aug2025 00:33:12.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4859ms or 97 ticks behind
-[01Aug2025 00:33:32.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4575ms or 91 ticks behind
-[01Aug2025 00:33:51.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
-[01Aug2025 00:34:10.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
-[01Aug2025 00:34:29.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3856ms or 77 ticks behind
-[01Aug2025 00:34:48.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3848ms or 76 ticks behind
-[01Aug2025 00:35:07.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4521ms or 90 ticks behind
-[01Aug2025 00:35:26.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
-[01Aug2025 00:35:46.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4434ms or 88 ticks behind
-[01Aug2025 00:36:04.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
-[01Aug2025 00:41:48.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:41:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:41:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:41:59.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -1.0580983834481685,7.965013738174179,18.46618489972184
-[01Aug2025 00:42:12.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:43:45.396] [Server thread/INFO] [armorplus/]: Charge at: 54
-[01Aug2025 00:43:49.140] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 00:44:59.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:46:01.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:46:14.651] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 00:46:16.588] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 00:46:17.936] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 00:46:19.043] [Server thread/INFO] [armorplus/]: Charge at: 16
-[01Aug2025 00:46:20.137] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 00:46:30.438] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 00:46:32.043] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 00:46:36.186] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 00:46:45.857] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:46:53.189] [Server thread/INFO] [armorplus/]: Charge at: 48
-[01Aug2025 00:46:54.437] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 00:46:55.785] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 00:47:01.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 00:47:01.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 00:48:31.185] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b5f2628
-[01Aug2025 00:48:31.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:51587] logged in with entity id 53701 at (1781.423118351805, 64.0, 1580.053540858924)
-[01Aug2025 00:48:31.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 00:50:49.643] [Server thread/INFO] [armorplus/]: Charge at: 75
-[01Aug2025 00:50:51.043] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 00:50:52.194] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 00:50:56.343] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 00:50:57.804] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 00:50:59.344] [Server thread/INFO] [armorplus/]: Charge at: 14
-[01Aug2025 00:51:00.708] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 00:51:02.793] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 00:51:04.595] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 00:51:06.294] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 00:51:32.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:52:33.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Voluntary Exile]
-[01Aug2025 00:53:09.184] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:54:10.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:55:37.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:55:42.442] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 00:55:44.042] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 00:55:45.195] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 00:55:51.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[01Aug2025 00:56:12.345] [Server thread/INFO] [armorplus/]: Charge at: 49
-[01Aug2025 00:56:13.796] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 00:56:15.345] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 00:56:16.746] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 00:56:30.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 00:56:30.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 00:57:31.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 00:58:08.373] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33031e61
-[01Aug2025 00:58:08.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:55511] logged in with entity id 64915 at (1758.9987628148097, 66.16610926093821, 1564.7562453153269)
-[01Aug2025 00:58:08.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 01:01:05.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Cover Me in Debris]
-[01Aug2025 01:01:10.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 01:01:10.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 01:01:21.574] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b330a70
-[01Aug2025 01:01:21.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:39071] logged in with entity id 66137 at (1769.729588250222, 69.0, 1575.8778780045348)
-[01Aug2025 01:01:21.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 01:01:24.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:02:20.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:02:20.405] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:02:20.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:02:34.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 01:02:34.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 01:02:45.979] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a6b8da1
-[01Aug2025 01:02:45.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:49839] logged in with entity id 66667 at (1710.300000011921, 68.0, 1550.6060660248027)
-[01Aug2025 01:02:45.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 01:02:46.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:02:46.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:02:46.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:03:32.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 01:03:32.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 01:04:33.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:04:59.805] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:06:00.317] [Server thread/INFO] [armorplus/]: Charge at: 1
-[01Aug2025 01:06:00.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Ol' Betsy]
-[01Aug2025 01:07:36.419] [Server thread/INFO] [armorplus/]: Charge at: 94
-[01Aug2025 01:07:49.722] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ae390d
-[01Aug2025 01:07:49.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:50001] logged in with entity id 68848 at (1713.8096881959377, 68.0, 1552.7071960155126)
-[01Aug2025 01:07:49.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 01:07:55.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:08:25.821] [Server thread/INFO] [armorplus/]: Charge at: 156
-[01Aug2025 01:08:27.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Voluntary Exile]
-[01Aug2025 01:08:44.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 01:08:44.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 01:09:17.255] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:10:38.505] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:10:39.525] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 01:10:42.024] [Server thread/INFO] [armorplus/]: Charge at: 47
-[01Aug2025 01:10:45.227] [Server thread/INFO] [armorplus/]: Charge at: 44
-[01Aug2025 01:11:23.772] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b492db2
-[01Aug2025 01:11:23.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:59047] logged in with entity id 70088 at (1766.4466910720591, 68.0, 1569.2118905184193)
-[01Aug2025 01:11:23.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 01:11:45.705] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:12:14.018] [Server thread/INFO] [armorplus/]: Charge at: 42
-[01Aug2025 01:12:15.872] [Server thread/INFO] [armorplus/]: Charge at: 14
-[01Aug2025 01:12:18.171] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 01:12:20.318] [Server thread/INFO] [armorplus/]: Charge at: 14
-[01Aug2025 01:12:22.167] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 01:12:23.118] [Server thread/INFO] [armorplus/]: Charge at: 5
-[01Aug2025 01:12:24.219] [Server thread/INFO] [armorplus/]: Charge at: 11
-[01Aug2025 01:12:25.768] [Server thread/INFO] [armorplus/]: Charge at: 10
-[01Aug2025 01:12:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:20:36.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 01:20:36.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 01:20:41.618] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@499f48f4
-[01Aug2025 01:20:41.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:52857] logged in with entity id 73158 at (1960.7135444971902, 63.0, 1284.9273229536193)
-[01Aug2025 01:20:41.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 01:23:10.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Clay Island]
-[01Aug2025 01:23:11.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:23:33.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[01Aug2025 01:23:46.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Clay Island]
-[01Aug2025 01:25:08.580] [Server thread/INFO] [armorplus/]: Charge at: 2
-[01Aug2025 01:25:28.205] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:25:33.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:25:33.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:25:33.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 01:26:37.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[01Aug2025 01:32:09.541] [Server thread/INFO] [armorplus/]: Charge at: 42
-[01Aug2025 01:32:13.285] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 01:32:14.686] [Server thread/INFO] [armorplus/]: Charge at: 14
-[01Aug2025 01:39:42.142] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 01:39:44.090] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 01:39:45.393] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 01:41:16.337] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 01:41:18.842] [Server thread/INFO] [armorplus/]: Charge at: 45
-[01Aug2025 01:41:20.294] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 01:41:21.350] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 01:41:22.893] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 01:41:32.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 01:41:32.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 01:41:43.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was doomed to fall by Vex
-[01Aug2025 01:42:03.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Vex
-[01Aug2025 01:43:07.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77a12ccb
-[01Aug2025 01:43:07.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:35849] logged in with entity id 85095 at (1364.0597224063245, 54.167125733160155, 773.1272604080372)
-[01Aug2025 01:43:07.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 01:43:19.700] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 01:43:21.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX drowned
-[01Aug2025 01:43:26.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX drowned
-[01Aug2025 01:43:26.373] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DiamondKingX with unique ID travelersbackpack.standard_01.08.2025-01.43.26.dat
-[01Aug2025 01:43:26.374] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1360 Y: 49 Z: 771
-[01Aug2025 01:43:51.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
-[01Aug2025 01:43:58.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 1360.500000, 49.000000, 771.500000
-[01Aug2025 01:44:28.047] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 01:44:30.760] [Server thread/INFO] [armorplus/]: Charge at: 51
-[01Aug2025 01:44:32.995] [Server thread/INFO] [armorplus/]: Charge at: 39
-[01Aug2025 01:44:34.749] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 01:44:36.444] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 01:44:38.252] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 01:44:40.250] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 01:44:42.112] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 01:44:43.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX is bleeding. DiamondKingX was slain by Vex
-[01Aug2025 01:44:44.300] [Server thread/INFO] [armorplus/]: Charge at: 36
-[01Aug2025 01:44:46.199] [Server thread/INFO] [armorplus/]: Charge at: 36
-[01Aug2025 01:44:48.245] [Server thread/INFO] [armorplus/]: Charge at: 34
-[01Aug2025 01:44:50.209] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 01:44:52.548] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 01:44:55.495] [Server thread/INFO] [armorplus/]: Charge at: 46
-[01Aug2025 01:44:58.096] [Server thread/INFO] [armorplus/]: Charge at: 41
-[01Aug2025 01:45:00.696] [Server thread/INFO] [armorplus/]: Charge at: 45
-[01Aug2025 01:45:03.746] [Server thread/INFO] [armorplus/]: Charge at: 51
-[01Aug2025 01:45:06.451] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 01:47:45.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has completed the challenge [Hero of the Village]
-[01Aug2025 01:47:45.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Hero of the Village]
-[01Aug2025 01:51:14.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
-[01Aug2025 01:51:14.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...xperience diamondkingx 30 levels<--[HERE]
-[01Aug2025 01:51:22.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown item 'minecraft:diamondkingx'
-[01Aug2025 01:51:22.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...xperience diamondkingx 30 levels<--[HERE]
-[01Aug2025 01:51:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
-[01Aug2025 01:51:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (get|base|modifier)
-[01Aug2025 01:51:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[01Aug2025 01:51:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|remove|list|set|get)
-[01Aug2025 01:51:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
-[01Aug2025 01:51:33.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (merge|get|remove|modify)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (enable|disable|list)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (start|stop|function)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (survival|creative|adventure|spectator)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [peaceful|easy|normal|hard]
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|set|query)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|remove|query)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (survival|creative|adventure|spectator)
-[01Aug2025 01:51:33.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /item (replace|modify)
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate <structure>
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (replace|insert|give|spawn)
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /placefeature <feature> [<pos>]
-[01Aug2025 01:51:33.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (function|clear)
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|remove|list)
-[01Aug2025 01:51:33.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (list|add|remove|empty|join|leave|modify)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<location>|<destination>|<targets>)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (set|add|query)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|set|center|damage|get|warning)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /jfr (start|stop)
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
-[01Aug2025 01:51:33.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /perf (start|stop)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (on|off|list|add|remove|reload)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tacz (attachment_lock|debug|dummy|overwrite|reload|hide_tooltip_part|convert)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tb (access|restore|remove|clear|unpack)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /emotes (play|stop|reload)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /armorplus (discord|info|nodecraft|wiki|support)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /supplementaries (globe|reload|configured|roll|cage|record)
-[01Aug2025 01:51:33.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tconstruct (modifiers|tool_stats|slots|modifier_usage)
-[01Aug2025 01:51:33.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /open-patchouli-book <targets> <book> [<entry>]
-[01Aug2025 01:51:33.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /mantle (view_tag|dump_tag|dump_loot_modifiers|dump_all_tags|tags_for|harvest_tiers|tag_preference)
-[01Aug2025 01:51:33.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /witherstormmod (phase|consumedEntities|cluster|chunks|evolutionSpeed|sickness|explode|revive|bowels|distractions|ultimateTarget|config)
-[01Aug2025 01:51:33.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /cmdconfig
-[01Aug2025 01:51:33.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /revive <players>
-[01Aug2025 01:51:52.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
-[01Aug2025 01:51:52.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...xperience diamondkingx 30 levels<--[HERE]
-[01Aug2025 01:54:48.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
-[01Aug2025 01:54:48.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xp 30 levels diamondkingx<--[HERE]
-[01Aug2025 01:55:19.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
-[01Aug2025 01:55:19.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...xperience 30 levels diamondkingx<--[HERE]
-[01Aug2025 01:56:18.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected integer
-[01Aug2025 01:56:18.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx  30 levels<--[HERE]
-[01Aug2025 01:56:31.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Expected integer
-[01Aug2025 01:56:31.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...mondkingx  30 levels<--[HERE]
-[01Aug2025 01:56:36.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 30 experience levels to DiamondKingX
-[01Aug2025 01:58:13.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
-[01Aug2025 01:58:49.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 01:58:54.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[01Aug2025 01:59:22.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 01:59:22.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 01:59:32.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70ca0524
-[01Aug2025 01:59:32.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:39299] logged in with entity id 93443 at (1342.5040897145839, 46.0, 724.8167259106657)
-[01Aug2025 01:59:32.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:03:25.189] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 02:03:41.013] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 02:04:27.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
-[01Aug2025 02:04:37.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.025485014812602458,-11.558953062305577,0.0
-[01Aug2025 02:04:54.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[01Aug2025 02:06:48.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 02:06:48.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 02:06:53.491] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d820cf5
-[01Aug2025 02:06:53.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:46335] logged in with entity id 98475 at (1326.7194262876064, 46.0, 756.231910266751)
-[01Aug2025 02:06:53.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 02:13:16.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 02:13:16.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:13:30.943] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59efb653
-[01Aug2025 02:13:30.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:55267] logged in with entity id 102282 at (1340.451885239103, 48.0, 738.1116512481057)
-[01Aug2025 02:13:30.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:14:01.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
-[01Aug2025 02:14:01.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:14:01.091] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[01Aug2025 02:14:42.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cdae43f
-[01Aug2025 02:14:42.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:53013] logged in with entity id 103272 at (1340.451885239103, 48.0, 738.1116512481057)
-[01Aug2025 02:14:42.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:15:12.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
-[01Aug2025 02:15:12.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:16:04.711] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26a2d9e6
-[01Aug2025 02:16:04.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:57795] logged in with entity id 103895 at (1340.451885239103, 48.0, 738.1116512481057)
-[01Aug2025 02:16:04.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:16:34.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
-[01Aug2025 02:16:34.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:21:08.251] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e005bdb
-[01Aug2025 02:21:08.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:58291] logged in with entity id 110160 at (1340.451885239103, 48.0, 738.1116512481057)
-[01Aug2025 02:21:08.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:23:55.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 10 experience levels to DiamondKingX
-[01Aug2025 02:24:32.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> DE
-[01Aug2025 02:28:23.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
-[01Aug2025 02:28:23.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:29:48.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@727b216
-[01Aug2025 02:29:49.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:35637] logged in with entity id 112999 at (1338.5120737407713, 46.0, 755.4546269287079)
-[01Aug2025 02:29:49.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:30:19.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Timed out
-[01Aug2025 02:30:19.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:31:00.195] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f148c50
-[01Aug2025 02:31:00.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:41969] logged in with entity id 113216 at (1338.5120737407713, 46.0, 755.4546269287079)
-[01Aug2025 02:31:00.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:36:19.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 10 experience levels to DiamondKingX
-[01Aug2025 02:36:35.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 3 experience levels to DiamondKingX
-[01Aug2025 02:37:37.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 3 experience levels to DiamondKingX
-[01Aug2025 02:45:04.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 02:45:04.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 02:45:10.655] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11b50979
-[01Aug2025 02:45:10.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:35569] logged in with entity id 116449 at (1326.3914057952122, 46.0, 759.5669989099888)
-[01Aug2025 02:45:10.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 02:46:13.741] [Server thread/INFO] [armorplus/]: Charge at: 36
-[01Aug2025 02:59:31.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 02:59:31.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 02:59:36.716] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76c27aaf
-[01Aug2025 02:59:36.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:50109] logged in with entity id 122240 at (1344.7147449136933, 46.0, 738.7334106351997)
-[01Aug2025 02:59:36.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 03:01:59.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 03:02:16.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 03:02:35.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
-[01Aug2025 03:02:53.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01Aug2025 03:03:10.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
-[01Aug2025 03:03:14.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 1 experience levels to PredatorX_2000
-[01Aug2025 03:03:30.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 03:03:48.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
-[01Aug2025 03:04:06.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
-[01Aug2025 03:04:23.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
-[01Aug2025 03:04:40.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01Aug2025 03:05:39.028] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom-200 below top]
-[01Aug2025 03:05:49.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01Aug2025 03:11:42.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 03:12:12.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 03:12:29.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
-[01Aug2025 03:12:47.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01Aug2025 03:13:09.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 03:13:26.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
-[01Aug2025 03:13:49.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 03:14:07.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 03:14:26.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01Aug2025 03:15:00.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 03:15:09.126] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 03:15:16.134] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 03:15:18.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[01Aug2025 03:15:36.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 03:16:01.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 03:16:25.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59a8ee83
-[01Aug2025 03:16:27.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01Aug2025 03:16:44.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[01Aug2025 03:17:05.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 03:17:22.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[01Aug2025 03:17:40.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
-[01Aug2025 03:18:11.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[01Aug2025 03:18:41.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01Aug2025 03:19:35.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01Aug2025 03:20:07.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[01Aug2025 03:20:25.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
-[01Aug2025 03:21:03.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 03:21:32.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[01Aug2025 03:21:50.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[01Aug2025 03:22:08.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
-[01Aug2025 03:22:26.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
-[01Aug2025 03:22:44.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2948ms or 58 ticks behind
-[01Aug2025 03:23:02.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
-[01Aug2025 03:23:19.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
-[01Aug2025 03:23:41.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 03:23:59.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
-[01Aug2025 03:24:17.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
-[01Aug2025 03:24:35.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
-[01Aug2025 03:24:52.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
-[01Aug2025 03:25:09.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
-[01Aug2025 03:25:27.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
-[01Aug2025 03:25:44.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
-[01Aug2025 03:26:02.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
-[01Aug2025 03:26:05.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PredatorX_2000> E
-[01Aug2025 03:26:19.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
-[01Aug2025 03:26:36.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[01Aug2025 03:26:55.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 03:27:04.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77121, l='ServerLevel[world]', x=1366.59, y=46.46, z=748.37] died, message: 'Villager tried to swim in lava'
-[01Aug2025 03:27:08.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77051, l='ServerLevel[world]', x=1366.11, y=46.42, z=748.76] died, message: 'Villager burned to death'
-[01Aug2025 03:27:12.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[01Aug2025 03:27:29.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
-[01Aug2025 03:27:48.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3587ms or 71 ticks behind
-[01Aug2025 03:28:05.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[01Aug2025 03:28:17.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77027, l='ServerLevel[world]', x=1368.83, y=46.00, z=738.62] died, message: 'Villager burned to death'
-[01Aug2025 03:28:23.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
-[01Aug2025 03:28:40.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
-[01Aug2025 03:28:58.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
-[01Aug2025 03:29:16.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
-[01Aug2025 03:29:33.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
-[01Aug2025 03:29:43.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77122, l='ServerLevel[world]', x=1370.18, y=46.00, z=749.59] died, message: 'Villager burned to death'
-[01Aug2025 03:29:51.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
-[01Aug2025 03:30:08.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
-[01Aug2025 03:30:27.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3698ms or 73 ticks behind
-[01Aug2025 03:30:46.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
-[01Aug2025 03:31:04.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
-[01Aug2025 03:31:22.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
-[01Aug2025 03:31:39.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
-[01Aug2025 03:31:59.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01Aug2025 03:32:07.631] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 03:32:09.679] [Server thread/INFO] [armorplus/]: Charge at: 16
-[01Aug2025 03:32:18.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 03:32:39.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01Aug2025 03:33:01.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[01Aug2025 03:33:40.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01Aug2025 03:34:34.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 03:35:23.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01Aug2025 03:35:42.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01Aug2025 03:36:05.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 03:36:22.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[01Aug2025 03:36:42.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 03:36:59.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 03:37:20.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01Aug2025 03:37:37.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2794ms or 55 ticks behind
-[01Aug2025 03:37:55.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
-[01Aug2025 03:38:15.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 03:38:38.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 03:38:56.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
-[01Aug2025 03:39:15.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
-[01Aug2025 03:39:33.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
-[01Aug2025 03:39:51.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
-[01Aug2025 03:40:08.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
-[01Aug2025 03:40:26.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
-[01Aug2025 03:40:43.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
-[01Aug2025 03:41:01.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[01Aug2025 03:41:18.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 03:41:19.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 03:41:19.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 04:52:05.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> hola
-[01Aug2025 05:01:22.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a31b37a
-[01Aug2025 05:01:22.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:57011] logged in with entity id 195107 at (1337.7219584497477, 46.0, 738.4311469246917)
-[01Aug2025 05:01:22.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 05:01:31.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
-[01Aug2025 05:07:09.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.06471101365877985,-10.5291936452913,-0.071024488216608
-[01Aug2025 05:08:28.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 05:10:46.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 fell from a high place
-[01Aug2025 05:11:09.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[01Aug2025 05:14:13.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -11.249321084966596,-0.7860673859837277,7.589123745571669
-[01Aug2025 05:14:46.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -9.165558529822192,-0.3499999999999801,6.194202893592774
-[01Aug2025 05:15:51.555] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/206654, l='ServerLevel[world]', x=2018.50, y=51.00, z=7538.50]
-[01Aug2025 05:20:51.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Eye Spy]
-[01Aug2025 05:26:37.087] [Server thread/INFO] [armorplus/]: Charge at: 34
-[01Aug2025 05:27:22.994] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 05:29:04.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [The End?]
-[01Aug2025 05:29:06.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [The End?]
-[01Aug2025 05:29:06.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
-[01Aug2025 05:29:07.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -887.4715256246536,16.464159374955443,-7822.849370771645
-[01Aug2025 05:29:10.547] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
-[01Aug2025 05:29:10.548] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
-[01Aug2025 05:30:23.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [You Need a Mint]
-[01Aug2025 05:31:44.909] [Server thread/INFO] [armorplus/]: Charge at: 89
-[01Aug2025 05:31:49.508] [Server thread/INFO] [armorplus/]: Charge at: 59
-[01Aug2025 05:31:54.158] [Server thread/INFO] [armorplus/]: Charge at: 51
-[01Aug2025 05:34:39.801] [Server thread/INFO] [armorplus/]: Charge at: 50
-[01Aug2025 05:34:45.461] [Server thread/INFO] [armorplus/]: Charge at: 67
-[01Aug2025 05:34:50.658] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:35:34.365] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 05:36:00.962] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 05:36:03.659] [Server thread/INFO] [armorplus/]: Charge at: 52
-[01Aug2025 05:36:07.108] [Server thread/INFO] [armorplus/]: Charge at: 64
-[01Aug2025 05:36:09.909] [Server thread/INFO] [armorplus/]: Charge at: 51
-[01Aug2025 05:36:12.561] [Server thread/INFO] [armorplus/]: Charge at: 50
-[01Aug2025 05:36:15.008] [Server thread/INFO] [armorplus/]: Charge at: 44
-[01Aug2025 05:36:18.058] [Server thread/INFO] [armorplus/]: Charge at: 45
-[01Aug2025 05:36:20.602] [Server thread/INFO] [armorplus/]: Charge at: 40
-[01Aug2025 05:36:47.303] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:36:49.262] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 05:36:51.661] [Server thread/INFO] [armorplus/]: Charge at: 46
-[01Aug2025 05:36:53.212] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 05:36:54.988] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:37:02.464] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 05:37:04.413] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 05:37:06.208] [Server thread/INFO] [armorplus/]: Charge at: 34
-[01Aug2025 05:37:08.708] [Server thread/INFO] [armorplus/]: Charge at: 48
-[01Aug2025 05:37:10.508] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:37:12.366] [Server thread/INFO] [armorplus/]: Charge at: 36
-[01Aug2025 05:38:04.915] [Server thread/INFO] [armorplus/]: Charge at: 45
-[01Aug2025 05:38:06.758] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 05:38:08.402] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 05:38:10.075] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 05:38:11.508] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:38:12.908] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:38:14.312] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 05:38:17.445] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:38:19.044] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:38:26.164] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:38:27.811] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 05:38:46.814] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 05:38:54.964] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:38:56.674] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:38:59.452] [Server thread/INFO] [armorplus/]: Charge at: 54
-[01Aug2025 05:39:01.108] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 05:39:02.860] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:39:04.302] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 05:39:05.860] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 05:39:07.303] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:39:09.116] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 05:39:10.508] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:39:12.158] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 05:39:13.708] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 05:39:14.960] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 05:39:16.408] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:39:17.608] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 05:39:18.760] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 05:39:20.165] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:39:21.658] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:39:30.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Free the End]
-[01Aug2025 05:40:49.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [The Next Generation]
-[01Aug2025 05:41:34.462] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 05:48:33.045] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 05:48:34.900] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:48:36.949] [Server thread/INFO] [armorplus/]: Charge at: 39
-[01Aug2025 05:48:38.352] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:48:40.808] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 05:48:42.194] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:48:43.650] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 05:48:45.108] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 05:48:46.444] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 05:48:47.695] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 05:48:48.798] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 05:48:50.008] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 05:48:51.694] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 05:48:52.953] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 05:48:54.096] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 05:48:55.353] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 05:48:56.643] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 05:48:57.651] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 05:48:59.202] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 05:49:00.359] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 05:49:01.400] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 05:49:07.246] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 05:49:08.300] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 05:49:14.097] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 05:49:16.296] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 05:52:12.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[01Aug2025 05:57:16.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Remote Getaway]
-[01Aug2025 05:57:18.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Remote Getaway]
-[01Aug2025 05:58:18.987] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 05:58:20.691] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 05:58:21.995] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 05:58:44.244] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 05:58:46.238] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 05:58:47.989] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 05:58:49.548] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 05:58:49.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [My Name is Nobody]
-[01Aug2025 05:59:50.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Ender Distancing]
-[01Aug2025 05:59:54.192] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 05:59:56.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Capsid-19]
-[01Aug2025 06:01:27.542] [Server thread/INFO] [armorplus/]: Charge at: 96
-[01Aug2025 06:01:29.095] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 06:01:30.441] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 06:01:32.045] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 06:01:33.488] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 06:01:44.133] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 06:01:45.684] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 06:01:47.088] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 06:05:03.435] [Server thread/INFO] [armorplus/]: Charge at: 34
-[01Aug2025 06:07:07.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 06:07:07.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 06:08:16.166] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c4f38e8
-[01Aug2025 06:08:16.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:37241] logged in with entity id 216412 at (-747.103543121552, 6.070218350513081, 905.1870884133525)
-[01Aug2025 06:08:16.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
-[01Aug2025 06:08:16.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Creative Mode
-[01Aug2025 06:09:45.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
-[01Aug2025 06:15:37.774] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 06:15:53.325] [Server thread/INFO] [armorplus/]: Charge at: 16
-[01Aug2025 06:15:56.480] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 06:15:57.830] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 06:16:02.485] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 06:16:05.881] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 06:16:07.189] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 06:17:11.526] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 06:17:15.482] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 06:17:18.575] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 06:18:41.426] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 06:22:17.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Enderslime Island]
-[01Aug2025 06:22:22.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Enderslime Island]
-[01Aug2025 06:24:49.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [The City at the End of the Game]
-[01Aug2025 06:25:04.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [The City at the End of the Game]
-[01Aug2025 06:26:38.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 0.5102579927980742,-32.0,-2.7396550452340307
-[01Aug2025 06:28:55.170] [Server thread/INFO] [armorplus/]: Charge at: 105
-[01Aug2025 06:29:37.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 5.997116217472808,-20.0,5.724714044841676
-[01Aug2025 06:30:17.166] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 06:30:19.275] [Server thread/INFO] [armorplus/]: Charge at: 40
-[01Aug2025 06:30:20.831] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 06:30:44.777] [Server thread/INFO] [armorplus/]: Charge at: 49
-[01Aug2025 06:30:46.473] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 06:30:48.066] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 06:30:49.619] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 06:30:50.969] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 06:30:52.268] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 06:32:25.820] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 06:32:27.213] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 06:37:19.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[01Aug2025 06:41:31.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[01Aug2025 06:42:41.259] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 06:49:04.608] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 06:49:08.958] [Server thread/INFO] [armorplus/]: Charge at: 44
-[01Aug2025 06:49:30.303] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 06:49:34.158] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 06:49:35.758] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 06:49:37.149] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 06:49:43.551] [Server thread/INFO] [armorplus/]: Charge at: 127
-[01Aug2025 06:50:55.297] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 06:51:09.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Sky's the Limit]
-[01Aug2025 06:51:37.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Sky's the Limit]
-[01Aug2025 06:53:11.899] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 06:53:13.247] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 06:53:16.308] [Server thread/INFO] [armorplus/]: Charge at: 39
-[01Aug2025 06:53:20.303] [Server thread/INFO] [armorplus/]: Charge at: 79
-[01Aug2025 06:53:33.250] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 06:55:07.352] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 06:55:08.750] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 06:55:10.399] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 06:55:12.002] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 06:55:13.697] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 06:55:17.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 is bleeding. PredatorX_2000 was slain by Enderman
-[01Aug2025 06:56:02.346] [Server thread/INFO] [armorplus/]: Charge at: 16
-[01Aug2025 06:56:06.397] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 06:57:54.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -6.882404099520954,-10.0,6.969766010432068
-[01Aug2025 07:11:57.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported PredatorX_2000 to DiamondKingX
-[01Aug2025 07:13:29.339] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 07:13:31.186] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 07:13:32.535] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 07:13:33.883] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:13:35.137] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:13:36.437] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:13:37.930] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 07:13:39.281] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:13:40.730] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 07:13:41.834] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 07:13:42.984] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:13:44.134] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:13:45.082] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 07:13:45.739] [Server thread/INFO] [armorplus/]: Charge at: 12
-[01Aug2025 07:13:46.335] [Server thread/INFO] [armorplus/]: Charge at: 10
-[01Aug2025 07:13:46.782] [Server thread/INFO] [armorplus/]: Charge at: 8
-[01Aug2025 07:13:47.684] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 07:13:48.288] [Server thread/INFO] [armorplus/]: Charge at: 10
-[01Aug2025 07:13:49.086] [Server thread/INFO] [armorplus/]: Charge at: 14
-[01Aug2025 07:13:49.738] [Server thread/INFO] [armorplus/]: Charge at: 11
-[01Aug2025 07:13:50.336] [Server thread/INFO] [armorplus/]: Charge at: 10
-[01Aug2025 07:13:53.281] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:13:54.434] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:13:55.731] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 07:13:57.384] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 07:13:58.679] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 07:14:00.386] [Server thread/INFO] [armorplus/]: Charge at: 16
-[01Aug2025 07:14:44.590] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 07:14:48.432] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 07:14:49.690] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:14:51.183] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:14:52.334] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:15:00.496] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 07:15:02.330] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 07:15:03.731] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:15:04.937] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 07:17:34.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -4.196214097036545,-6.0,-7.356605548947755
-[01Aug2025 07:23:13.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 7.073373646566793,-1.0,-7.517878792911773
-[01Aug2025 07:30:51.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 1.9742370404320582,-10.0,0.8241493752848328
-[01Aug2025 07:38:32.578] [Server thread/INFO] [armorplus/]: Charge at: 40
-[01Aug2025 07:38:33.970] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 07:38:52.472] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 07:38:54.157] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 07:38:55.916] [Server thread/INFO] [armorplus/]: Charge at: 34
-[01Aug2025 07:38:57.317] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 07:40:27.173] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 07:40:29.037] [Server thread/INFO] [armorplus/]: Charge at: 35
-[01Aug2025 07:40:56.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:56.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:56.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:56.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:56.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:56.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.074] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:40:57.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:57.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.572] [Server thread/INFO] [armorplus/]: Charge at: 26
-[01Aug2025 07:40:58.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:58.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.110] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:40:59.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.165] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 07:41:00.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:00.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:01.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:01.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:01.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:01.770] [Server thread/INFO] [armorplus/]: Charge at: 29
-[01Aug2025 07:41:02.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:02.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:02.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:02.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:02.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:02.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:02.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:03.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:04.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:05.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:06.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:06.162] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:06.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:06.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:10.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:11.967] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:12.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:12.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:12.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:12.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:12.463] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:12.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[01Aug2025 07:41:19.964] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:41:22.915] [Server thread/INFO] [armorplus/]: Charge at: 38
-[01Aug2025 07:41:28.715] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 07:41:30.783] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:41:34.973] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 07:41:36.118] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:41:37.813] [Server thread/INFO] [armorplus/]: Charge at: 32
-[01Aug2025 07:41:39.617] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 07:41:41.124] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 07:41:42.563] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 07:41:44.214] [Server thread/INFO] [armorplus/]: Charge at: 30
-[01Aug2025 07:41:45.667] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 07:43:29.017] [Server thread/INFO] [armorplus/]: Charge at: 23
-[01Aug2025 07:44:03.116] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 07:44:05.214] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 07:44:06.566] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 07:44:17.763] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 07:44:19.016] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:44:21.075] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:44:21.873] [Server thread/INFO] [armorplus/]: Charge at: 15
-[01Aug2025 07:44:22.622] [Server thread/INFO] [armorplus/]: Charge at: 12
-[01Aug2025 07:45:52.406] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/237121, l='ServerLevel[world]', x=2020.50, y=50.00, z=7538.50]
-[01Aug2025 07:45:58.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 1.3236836338119247,-0.3499999999999801,-10.902404421888605
-[01Aug2025 07:45:58.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 9.119283595950264,6.426625225268097,-0.09231608701247751
-[01Aug2025 07:46:06.117] [Server thread/INFO] [armorplus/]: Charge at: 22
-[01Aug2025 07:46:07.469] [Server thread/INFO] [armorplus/]: Charge at: 24
-[01Aug2025 07:46:08.773] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 07:46:09.829] [Server thread/INFO] [armorplus/]: Charge at: 18
-[01Aug2025 07:46:10.931] [Server thread/INFO] [armorplus/]: Charge at: 21
-[01Aug2025 07:46:12.022] [Server thread/INFO] [armorplus/]: Charge at: 19
-[01Aug2025 07:46:13.520] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 07:46:15.073] [Server thread/INFO] [armorplus/]: Charge at: 17
-[01Aug2025 07:47:26.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 07:47:45.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3475ms or 69 ticks behind
-[01Aug2025 07:48:30.395] [Server thread/INFO] [armorplus/]: Charge at: 37
-[01Aug2025 07:48:43.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 07:49:07.193] [Server thread/INFO] [armorplus/]: Charge at: 27
-[01Aug2025 07:49:08.816] [Server thread/INFO] [armorplus/]: Charge at: 31
-[01Aug2025 07:49:10.390] [Server thread/INFO] [armorplus/]: Charge at: 28
-[01Aug2025 07:49:12.146] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 07:49:13.864] [Server thread/INFO] [armorplus/]: Charge at: 33
-[01Aug2025 07:49:15.202] [Server thread/INFO] [armorplus/]: Charge at: 25
-[01Aug2025 07:49:19.394] [Server thread/INFO] [armorplus/]: Charge at: 80
-[01Aug2025 07:49:24.642] [Server thread/INFO] [armorplus/]: Charge at: 20
-[01Aug2025 07:49:46.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01Aug2025 07:50:17.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 07:51:07.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 07:51:49.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 07:52:49.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [The Twelve Labors of Hercules]
-[01Aug2025 08:05:42.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01Aug2025 08:06:00.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[01Aug2025 08:06:17.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[01Aug2025 08:06:38.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01Aug2025 08:06:57.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[01Aug2025 08:07:22.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01Aug2025 08:07:50.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01Aug2025 08:08:09.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
-[01Aug2025 08:08:29.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
-[01Aug2025 08:08:47.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
-[01Aug2025 08:09:06.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3615ms or 72 ticks behind
-[01Aug2025 08:09:24.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
-[01Aug2025 08:09:41.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
-[01Aug2025 08:10:00.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
-[01Aug2025 08:10:19.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
-[01Aug2025 08:10:36.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
-[01Aug2025 08:10:55.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
-[01Aug2025 08:11:13.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
-[01Aug2025 08:11:31.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
-[01Aug2025 08:11:54.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7644ms or 152 ticks behind
-[01Aug2025 08:12:12.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
-[01Aug2025 08:12:29.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
-[01Aug2025 08:12:47.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:13:05.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3718ms or 74 ticks behind
-[01Aug2025 08:13:23.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[01Aug2025 08:13:41.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
-[01Aug2025 08:13:58.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[01Aug2025 08:14:25.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01Aug2025 08:14:44.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
-[01Aug2025 08:15:02.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
-[01Aug2025 08:15:19.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 08:15:39.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:15:57.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
-[01Aug2025 08:16:15.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[01Aug2025 08:16:32.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
-[01Aug2025 08:16:49.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
-[01Aug2025 08:17:09.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 08:17:26.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
-[01Aug2025 08:17:45.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3533ms or 70 ticks behind
-[01Aug2025 08:18:07.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7635ms or 152 ticks behind
-[01Aug2025 08:18:26.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
-[01Aug2025 08:18:43.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[01Aug2025 08:19:02.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3842ms or 76 ticks behind
-[01Aug2025 08:19:21.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3569ms or 71 ticks behind
-[01Aug2025 08:19:39.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
-[01Aug2025 08:19:57.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
-[01Aug2025 08:20:15.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
-[01Aug2025 08:20:34.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
-[01Aug2025 08:20:52.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3124ms or 62 ticks behind
-[01Aug2025 08:21:11.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4113ms or 82 ticks behind
-[01Aug2025 08:21:29.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3074ms or 61 ticks behind
-[01Aug2025 08:21:46.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[01Aug2025 08:22:05.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4078ms or 81 ticks behind
-[01Aug2025 08:22:22.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
-[01Aug2025 08:22:40.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
-[01Aug2025 08:22:57.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[01Aug2025 08:23:14.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
-[01Aug2025 08:23:34.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
-[01Aug2025 08:23:51.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 08:24:09.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
-[01Aug2025 08:24:27.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3231ms or 64 ticks behind
-[01Aug2025 08:24:44.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
-[01Aug2025 08:25:02.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
-[01Aug2025 08:25:27.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[01Aug2025 08:25:47.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4826ms or 96 ticks behind
-[01Aug2025 08:26:05.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01Aug2025 08:26:22.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[01Aug2025 08:26:41.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
-[01Aug2025 08:26:58.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[01Aug2025 08:27:15.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
-[01Aug2025 08:27:33.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
-[01Aug2025 08:27:51.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
-[01Aug2025 08:28:09.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[01Aug2025 08:28:27.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
-[01Aug2025 08:28:45.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
-[01Aug2025 08:29:02.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
-[01Aug2025 08:29:21.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
-[01Aug2025 08:29:40.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
-[01Aug2025 08:29:59.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
-[01Aug2025 08:30:16.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
-[01Aug2025 08:30:34.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
-[01Aug2025 08:30:51.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
-[01Aug2025 08:31:10.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3197ms or 63 ticks behind
-[01Aug2025 08:31:27.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
-[01Aug2025 08:31:44.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
-[01Aug2025 08:32:01.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 08:32:21.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4326ms or 86 ticks behind
-[01Aug2025 08:32:38.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
-[01Aug2025 08:32:55.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
-[01Aug2025 08:33:12.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
-[01Aug2025 08:33:30.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
-[01Aug2025 08:33:47.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
-[01Aug2025 08:34:05.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
-[01Aug2025 08:34:23.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
-[01Aug2025 08:34:41.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
-[01Aug2025 08:34:59.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
-[01Aug2025 08:35:23.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01Aug2025 08:35:42.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4285ms or 85 ticks behind
-[01Aug2025 08:36:01.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
-[01Aug2025 08:36:19.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
-[01Aug2025 08:36:36.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
-[01Aug2025 08:37:13.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 08:37:44.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01Aug2025 08:38:53.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 08:39:29.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:39:46.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[01Aug2025 08:40:04.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:40:32.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 08:40:43.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 08:40:43.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 08:40:49.042] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@51fe00f1
-[01Aug2025 08:40:49.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:49589] logged in with entity id 282679 at (1359.705625633919, 46.0, 743.5288565857827)
-[01Aug2025 08:40:49.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 08:42:29.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 08:42:47.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 08:43:04.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
-[01Aug2025 08:43:13.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.5011917217557311,-14.1339691699224,-0.2290820399794029
-[01Aug2025 08:43:52.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01Aug2025 08:44:22.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[01Aug2025 08:44:50.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01Aug2025 08:46:23.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 08:46:46.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01Aug2025 08:47:16.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[01Aug2025 08:47:51.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:48:19.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:49:12.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 08:50:34.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01Aug2025 08:50:55.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01Aug2025 08:51:18.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 08:51:35.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[01Aug2025 08:52:00.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01Aug2025 08:52:29.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01Aug2025 08:52:32.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 08:52:32.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 08:52:36.582] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ffe59cd
-[01Aug2025 08:52:36.586] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:51743] logged in with entity id 293561 at (1361.570939344446, 46.0, 745.6999999880791)
-[01Aug2025 08:52:36.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 08:53:42.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 08:53:42.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 08:53:47.427] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14115c44
-[01Aug2025 08:53:47.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:37895] logged in with entity id 295258 at (1360.8975350301332, 46.0, 743.4668481335083)
-[01Aug2025 08:53:47.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 08:55:43.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01Aug2025 08:56:18.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 08:57:14.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01Aug2025 08:58:17.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01Aug2025 08:59:21.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[01Aug2025 08:59:53.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01Aug2025 09:02:12.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01Aug2025 09:02:14.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 09:02:14.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 09:02:19.878] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@fa6739c
-[01Aug2025 09:02:19.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:33643] logged in with entity id 300728 at (1359.9063454657319, 46.0, 742.9133573559188)
-[01Aug2025 09:02:19.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 09:02:34.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 09:02:34.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 09:02:39.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@101873f6
-[01Aug2025 09:02:39.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:34317] logged in with entity id 301372 at (1360.0646476700015, 46.0, 745.3154217714987)
-[01Aug2025 09:02:39.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[01Aug2025 09:06:52.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01Aug2025 09:11:17.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] aña
-[01Aug2025 09:11:42.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] le dije ig de la minita encara messi sos relinda
-[01Aug2025 09:13:04.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01Aug2025 09:20:45.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[01Aug2025 09:20:45.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[01Aug2025 09:27:31.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[01Aug2025 09:27:31.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[01Aug2025 09:28:05.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[01Aug2025 09:28:06.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Aug2025 09:28:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Aug2025 09:28:06.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Aug2025 09:28:06.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Aug2025 09:28:06.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01Aug2025 09:28:06.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[01Aug2025 09:28:06.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/panthalassa:panthalassa
-[01Aug2025 09:28:06.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/peru_mod:hanan
-[01Aug2025 09:28:06.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01Aug2025 09:28:06.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (panthalassa): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
-[01Aug2025 09:28:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2025 21:37:23.771] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[03Aug2025 21:37:23.774] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[03Aug2025 21:37:23.939] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/solid-potato/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[03Aug2025 21:37:24.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[03Aug2025 21:37:24.280] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03Aug2025 21:37:24.282] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03Aug2025 21:37:24.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[03Aug2025 21:37:24.608] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[03Aug2025 21:37:26.445] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Aug2025 21:37:26.579] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[03Aug2025 21:37:26.583] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Aug2025 21:37:26.592] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Aug2025 21:37:27.824] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[03Aug2025 21:37:37.277] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
+[03Aug2025 21:37:37.941] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[03Aug2025 21:37:37.941] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[03Aug2025 21:37:46.174] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[03Aug2025 21:37:47.320] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[03Aug2025 21:37:47.324] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[03Aug2025 21:37:48.270] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[03Aug2025 21:37:48.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[03Aug2025 21:37:48.281] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
+[03Aug2025 21:37:48.281] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
+[03Aug2025 21:37:48.281] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
+[03Aug2025 21:37:49.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[03Aug2025 21:37:49.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 7.1.49 Target: null
+[03Aug2025 21:37:49.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[03Aug2025 21:37:49.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[03Aug2025 21:37:49.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.18/thedragonlib-updater.json
+[03Aug2025 21:37:49.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.18.1-1.0.0 Target: null
+[03Aug2025 21:37:49.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Aug2025 21:37:49.903] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[03Aug2025 21:37:49.904] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[03Aug2025 21:37:49.905] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[03Aug2025 21:37:49.905] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[03Aug2025 21:37:49.906] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[03Aug2025 21:37:49.907] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[03Aug2025 21:37:49.907] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[03Aug2025 21:37:49.907] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[03Aug2025 21:37:50.172] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[03Aug2025 21:37:50.179] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[03Aug2025 21:37:50.180] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[03Aug2025 21:37:50.182] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[03Aug2025 21:37:50.183] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of tconstruct:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[03Aug2025 21:37:50.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[03Aug2025 21:37:50.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.18/update.json
+[03Aug2025 21:37:50.283] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: UP_TO_DATE Current: 1.18.2-18.3.0 Target: null
+[03Aug2025 21:37:50.400] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 89 ms
+[03Aug2025 21:37:54.184] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Aug2025 21:37:56.917] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/solid-potato/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
+[03Aug2025 21:37:56.918] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/solid-potato/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
+[03Aug2025 21:38:02.018] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 309 ms
+[03Aug2025 21:38:07.439] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Aug2025 21:38:07.442] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Aug2025 21:38:07.446] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Aug2025 21:38:07.448] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03Aug2025 21:38:07.449] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03Aug2025 21:38:07.452] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[03Aug2025 21:38:07.453] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[03Aug2025 21:38:07.458] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[03Aug2025 21:38:07.460] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[03Aug2025 21:38:07.462] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+[03Aug2025 21:38:07.463] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
+[03Aug2025 21:38:15.381] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[03Aug2025 21:38:15.414] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[03Aug2025 21:38:15.471] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[03Aug2025 21:38:15.497] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[03Aug2025 21:38:15.498] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[03Aug2025 21:38:15.592] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[03Aug2025 21:38:15.597] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[03Aug2025 21:38:15.683] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[03Aug2025 21:38:15.743] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[03Aug2025 21:38:15.744] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
+com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:270) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:87) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:77) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[03Aug2025 21:38:15.792] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[03Aug2025 21:38:17.552] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2344 advancements
+[03Aug2025 21:38:17.565] [Worker-Main-6/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 5.965653 ms
+[03Aug2025 21:38:17.836] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 68 dynamic modifiers and 15 modifier redirects in 30.642752 ms
+[03Aug2025 21:38:17.988] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 5 modifier tags for 20 modifiers in 152.14857 ms
+[03Aug2025 21:38:17.989] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 0.84676 ms
+[03Aug2025 21:38:18.008] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 48 spilling fluids in 19.428469 ms
+[03Aug2025 21:38:18.093] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 97 Soft Fluids
+[03Aug2025 21:38:18.127] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 16.169313 ms
+[03Aug2025 21:38:18.343] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 216.65315 ms
+[03Aug2025 21:38:18.496] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 152.40395 ms
+[03Aug2025 21:38:18.598] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 101.920494 ms
+[03Aug2025 21:38:18.621] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 33 tool definitions in 22.933876 ms
+[03Aug2025 21:38:18.638] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 14.279578 ms
+[03Aug2025 21:38:20.656] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[03Aug2025 21:38:21.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[03Aug2025 21:38:21.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Aug2025 21:38:21.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Aug2025 21:38:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Aug2025 21:38:21.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Aug2025 21:38:21.387] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Aug2025 21:38:21.545] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Aug2025 21:38:21.546] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Aug2025 21:38:21.547] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Aug2025 21:38:21.547] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Aug2025 21:38:22.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Aug2025 21:38:25.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Aug2025 21:38:27.209] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:27.226] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:27.239] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:27.250] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:27.347] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:27.847] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:29.106] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:29.113] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:29.346] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:30.110] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:30.348] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:30.844] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:31.343] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 21:38:31.843] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[03Aug2025 21:38:32.345] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[03Aug2025 21:38:32.843] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[03Aug2025 21:38:33.349] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[03Aug2025 21:38:33.845] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[03Aug2025 21:38:34.346] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[03Aug2025 21:38:34.843] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[03Aug2025 21:38:35.343] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[03Aug2025 21:38:36.451] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[03Aug2025 21:38:36.456] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[03Aug2025 21:38:36.845] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[03Aug2025 21:38:37.884] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12542 ms
+[03Aug2025 21:38:37.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.323s)! For help, type "help"
+[03Aug2025 21:38:37.948] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Aug2025 21:38:37.951] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[03Aug2025 21:38:37.953] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[03Aug2025 21:38:37.953] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[03Aug2025 21:40:42.902] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23b2ae73
+[03Aug2025 21:40:42.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:58459] logged in with entity id 62 at (2480.483187421408, 62.5, 7438.699999988079)
+[03Aug2025 21:40:42.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[03Aug2025 21:40:45.465] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
+[03Aug2025 21:40:57.859] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1fd1a2aa
+[03Aug2025 21:40:57.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:35567] logged in with entity id 644 at (1359.300000011921, 46.0, 745.6999999880791)
+[03Aug2025 21:40:57.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[03Aug2025 21:40:59.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[03Aug2025 21:41:09.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> duerme
+[03Aug2025 21:41:17.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2859ms or 57 ticks behind
+[03Aug2025 21:43:46.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[03Aug2025 21:44:14.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03Aug2025 21:44:41.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03Aug2025 21:45:16.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2466, y=64, z=7413} BlockPos{x=2468, y=64, z=7413}
+[03Aug2025 21:45:16.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2466, y=64, z=7413} BlockPos{x=2468, y=64, z=7413}
+[03Aug2025 21:45:16.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2466, y=64, z=7412} BlockPos{x=2468, y=64, z=7413}
+[03Aug2025 21:45:16.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2466, y=64, z=7412} BlockPos{x=2468, y=64, z=7413}
+[03Aug2025 21:45:16.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2466, y=64, z=7412} BlockPos{x=2468, y=64, z=7413}
+[03Aug2025 21:45:16.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2466, y=64, z=7412} BlockPos{x=2468, y=64, z=7413}

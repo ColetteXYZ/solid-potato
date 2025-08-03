@@ -28,14 +28,14 @@
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": true,
+        "negate": false,
         "value": "byg:dacite_shore"
       }
     ],
     [
       {
         "type": "REGISTRY_NAME",
-        "negate": true,
+        "negate": false,
         "value": "byg:basalt_barrera"
       }
     ]
