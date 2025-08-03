@@ -4204,3 +4204,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [03Aug2025 23:30:14.911] [Server thread/INFO] [armorplus/]: Charge at: 19
 [03Aug2025 23:30:16.007] [Server thread/INFO] [armorplus/]: Charge at: 19
 [03Aug2025 23:30:17.356] [Server thread/INFO] [armorplus/]: Charge at: 24
+[03Aug2025 23:31:40.512] [Server thread/INFO] [armorplus/]: Charge at: 60
+[03Aug2025 23:31:43.213] [Server thread/INFO] [armorplus/]: Charge at: 34
+[03Aug2025 23:31:45.663] [Server thread/INFO] [armorplus/]: Charge at: 41
+[03Aug2025 23:31:47.913] [Server thread/INFO] [armorplus/]: Charge at: 39
+[03Aug2025 23:33:21.169] [Server thread/INFO] [armorplus/]: Charge at: 46
+[03Aug2025 23:33:22.119] [Server thread/INFO] [armorplus/]: Charge at: 15
+[03Aug2025 23:33:23.620] [Server thread/INFO] [armorplus/]: Charge at: 24
+[03Aug2025 23:33:47.819] [Server thread/INFO] [armorplus/]: Charge at: 39
+[03Aug2025 23:33:51.071] [Server thread/INFO] [armorplus/]: Charge at: 62
+[03Aug2025 23:34:02.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:34:02.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:39:02.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:39:02.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:40:44.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:48.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:48.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:51.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:52.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:53.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:53.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:40:55.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33t
+[03Aug2025 23:40:57.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33t
+[03Aug2025 23:41:15.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33t
