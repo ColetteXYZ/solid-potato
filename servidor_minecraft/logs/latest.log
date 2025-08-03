@@ -414,3 +414,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [03Aug2025 23:08:45.754] [Server thread/INFO] [armorplus/]: Charge at: 29
 [03Aug2025 23:10:27.956] [Server thread/INFO] [armorplus/]: Charge at: 46
 [03Aug2025 23:10:34.205] [Server thread/INFO] [armorplus/]: Charge at: 88
+[03Aug2025 23:11:16.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 9.218407697768555,2.024424088213685,-3.8594486523030582
+[03Aug2025 23:11:40.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Timed out
+[03Aug2025 23:11:40.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[03Aug2025 23:12:16.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73285dc
+[03Aug2025 23:12:16.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:56753] logged in with entity id 70501 at (420.1007874821077, 34.0, 378.693881780785)
+[03Aug2025 23:12:16.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
+[03Aug2025 23:19:31.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gave 64 [Bread] to DiamondKingX
+[03Aug2025 23:24:42.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved wrongly!
+[03Aug2025 23:25:47.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Blood Island]
+[03Aug2025 23:26:58.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33
+[03Aug2025 23:30:11.261] [Server thread/INFO] [armorplus/]: Charge at: 24
+[03Aug2025 23:30:12.707] [Server thread/INFO] [armorplus/]: Charge at: 22
+[03Aug2025 23:30:13.807] [Server thread/INFO] [armorplus/]: Charge at: 18
+[03Aug2025 23:30:14.911] [Server thread/INFO] [armorplus/]: Charge at: 19
+[03Aug2025 23:30:16.007] [Server thread/INFO] [armorplus/]: Charge at: 19
+[03Aug2025 23:30:17.356] [Server thread/INFO] [armorplus/]: Charge at: 24
