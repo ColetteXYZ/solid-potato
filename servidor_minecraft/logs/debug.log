@@ -4227,3 +4227,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [03Aug2025 23:40:55.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33t
 [03Aug2025 23:40:57.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33t
 [03Aug2025 23:41:15.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 364 65 -33t
+[03Aug2025 23:42:06.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[03Aug2025 23:43:01.324] [Server thread/INFO] [armorplus/]: Charge at: 46
+[03Aug2025 23:43:03.477] [Server thread/INFO] [armorplus/]: Charge at: 32
+[03Aug2025 23:43:23.275] [Server thread/INFO] [armorplus/]: Charge at: 56
+[03Aug2025 23:43:32.420] [Server thread/INFO] [armorplus/]: Charge at: 25
+[03Aug2025 23:43:36.209] [Server thread/INFO] [armorplus/]: Charge at: 74
+[03Aug2025 23:43:44.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has completed the challenge [Subspace Bubble]
+[03Aug2025 23:43:44.368] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754264624368
+[03Aug2025 23:43:45.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Subspace Bubble]
+[03Aug2025 23:43:46.135] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754264626135
+[03Aug2025 23:44:02.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:44:02.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:44:54.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -10.120033679810604,1.495200877005928,0.17912479583759477
+[03Aug2025 23:46:31.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -2.5937333170772945,-10.03209838821573,0.38017127246672544
+[03Aug2025 23:46:36.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -18.283425779599384,-1.7164485613067484,0.2633610903947101
+[03Aug2025 23:46:44.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -10.295528691261552,14.944866618497429,-2.3694003506379318
+[03Aug2025 23:46:58.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 17.523944456136178,-2.969639037229598,4.775149266348933
+[03Aug2025 23:49:02.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:49:02.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:49:23.161] [Server thread/INFO] [armorplus/]: Charge at: 48
+[03Aug2025 23:49:28.265] [Server thread/INFO] [armorplus/]: Charge at: 20
+[03Aug2025 23:49:29.464] [Server thread/INFO] [armorplus/]: Charge at: 22
+[03Aug2025 23:49:30.812] [Server thread/INFO] [armorplus/]: Charge at: 25
+[03Aug2025 23:49:32.114] [Server thread/INFO] [armorplus/]: Charge at: 24
+[03Aug2025 23:49:33.315] [Server thread/INFO] [armorplus/]: Charge at: 22
