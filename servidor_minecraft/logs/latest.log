@@ -263,3 +263,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [03Aug2025 21:57:39.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2580, y=69, z=7375} BlockPos{x=2580, y=69, z=7374}
 [03Aug2025 21:57:39.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2580, y=69, z=7374} BlockPos{x=2580, y=66, z=7375}
 [03Aug2025 21:57:48.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8236ms or 164 ticks behind
+[03Aug2025 21:58:12.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9019ms or 180 ticks behind
+[03Aug2025 21:58:36.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8342ms or 166 ticks behind
+[03Aug2025 21:58:59.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8663ms or 173 ticks behind
+[03Aug2025 21:59:07.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2559, y=64, z=7418} BlockPos{x=2559, y=64, z=7417}
+[03Aug2025 21:59:07.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2559, y=64, z=7419} BlockPos{x=2559, y=64, z=7417}
+[03Aug2025 21:59:07.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2559, y=65, z=7418} BlockPos{x=2559, y=64, z=7417}
+[03Aug2025 21:59:22.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7170ms or 143 ticks behind
+[03Aug2025 21:59:42.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[03Aug2025 22:00:01.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4112ms or 82 ticks behind
+[03Aug2025 22:00:23.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:00:40.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03Aug2025 22:01:04.458] [Server thread/INFO] [armorplus/]: Charge at: 69
+[03Aug2025 22:01:08.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Aug2025 22:01:29.853] [Server thread/INFO] [armorplus/]: Charge at: 83
+[03Aug2025 22:01:52.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:02:40.751] [Server thread/INFO] [armorplus/]: Charge at: 45
+[03Aug2025 22:02:42.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Aug2025 22:03:04.361] [Server thread/INFO] [armorplus/]: Charge at: 29
+[03Aug2025 22:03:10.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Aug2025 22:03:36.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:04:31.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03Aug2025 22:05:01.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:05:31.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:06:04.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:06:15.163] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ic_air:main] rejected their client side version number
+[03Aug2025 22:06:15.163] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[03Aug2025 22:06:15.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@378a3ffc[id=<null>,name=ninouzumaki,properties={},legacy=false] (/127.222.81.109:46791) lost connection: Connection closed - mismatched mod channel list
+[03Aug2025 22:06:52.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Aug2025 22:07:43.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
