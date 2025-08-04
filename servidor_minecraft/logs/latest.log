@@ -847,3 +847,22 @@
 [04Aug2025 04:02:20.610] [Server thread/INFO] [armorplus/]: Charge at: 27
 [04Aug2025 04:02:21.070] [Server thread/INFO] [armorplus/]: Charge at: 11
 [04Aug2025 04:03:25.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Mother of Dragons]
+[04Aug2025 04:12:12.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 1.3819145122524787,-0.8499999999999517,-10.154191696205066
+[04Aug2025 04:12:12.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -3.5440617866947832,0.7293000063657757,9.954215887886818
+[04Aug2025 04:16:32.774] [Server thread/INFO] [armorplus/]: Charge at: 13
+[04Aug2025 04:16:33.818] [Server thread/INFO] [armorplus/]: Charge at: 17
+[04Aug2025 04:16:35.066] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 04:16:35.913] [Server thread/INFO] [armorplus/]: Charge at: 14
+[04Aug2025 04:16:36.568] [Server thread/INFO] [armorplus/]: Charge at: 11
+[04Aug2025 04:16:37.013] [Server thread/INFO] [armorplus/]: Charge at: 7
+[04Aug2025 04:16:54.465] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 04:16:55.264] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 04:17:08.318] [Server thread/INFO] [armorplus/]: Charge at: 17
+[04Aug2025 04:17:09.310] [Server thread/INFO] [armorplus/]: Charge at: 9
+[04Aug2025 04:17:10.020] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 04:17:10.370] [Server thread/INFO] [armorplus/]: Charge at: 5
+[04Aug2025 04:17:16.417] [Server thread/INFO] [armorplus/]: Charge at: 16
+[04Aug2025 04:17:18.173] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 04:19:17.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
+[04Aug2025 04:19:17.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
+[04Aug2025 04:20:15.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Pray to the Goddess]
