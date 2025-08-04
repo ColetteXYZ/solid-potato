@@ -4399,3 +4399,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [04Aug2025 00:59:09.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Aug2025 01:03:14.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
 [04Aug2025 01:03:16.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
+[04Aug2025 01:04:09.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 01:04:09.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 01:05:16.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
+[04Aug2025 01:08:15.851] [Server thread/INFO] [armorplus/]: Charge at: 51
+[04Aug2025 01:08:18.498] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 01:08:22.380] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 01:08:24.119] [Server thread/INFO] [armorplus/]: Charge at: 33
+[04Aug2025 01:08:26.170] [Server thread/INFO] [armorplus/]: Charge at: 23
+[04Aug2025 01:09:00.946] [Server thread/INFO] [armorplus/]: Charge at: 54
+[04Aug2025 01:09:03.871] [Server thread/INFO] [armorplus/]: Charge at: 18
+[04Aug2025 01:09:05.715] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 01:09:07.619] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 01:09:09.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 01:09:09.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 01:12:17.882] [Server thread/INFO] [armorplus/]: Charge at: 50
+[04Aug2025 01:12:19.576] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 01:12:20.973] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 01:12:21.651] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 01:12:23.218] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 01:12:25.065] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 01:12:26.771] [Server thread/INFO] [armorplus/]: Charge at: 33
+[04Aug2025 01:12:28.404] [Server thread/INFO] [armorplus/]: Charge at: 19
+[04Aug2025 01:12:29.520] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 01:12:29.752] [Server thread/INFO] [armorplus/]: Charge at: 23
+[04Aug2025 01:12:31.273] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 01:12:32.102] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 01:12:33.024] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 01:12:35.329] [Server thread/INFO] [armorplus/]: Charge at: 44
+[04Aug2025 01:12:36.766] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 01:12:38.419] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 01:12:39.768] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 01:12:41.251] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 01:12:42.152] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 01:12:42.607] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 01:12:44.101] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 01:12:44.304] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 01:12:45.866] [Server thread/INFO] [armorplus/]: Charge at: 22
+[04Aug2025 01:12:46.302] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 01:12:47.576] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 01:12:48.202] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 01:12:49.020] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 01:12:50.153] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 01:12:51.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/141083, l='ServerLevel[world]', x=2502.51, y=69.00, z=-2350.62] died, message: 'Villager was shot by DiamondKingX'
