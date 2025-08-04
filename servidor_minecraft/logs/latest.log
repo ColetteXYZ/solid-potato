@@ -434,3 +434,9 @@
 [04Aug2025 02:34:34.830] [Server thread/INFO] [armorplus/]: Charge at: 32
 [04Aug2025 02:34:36.574] [Server thread/INFO] [armorplus/]: Charge at: 30
 [04Aug2025 02:34:38.728] [Server thread/INFO] [armorplus/]: Charge at: 41
+[04Aug2025 02:37:03.405] [Server thread/INFO] [armorplus/]: Charge at: 2
+[04Aug2025 02:40:25.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[04Aug2025 02:40:25.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
+[04Aug2025 02:42:45.035] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21432d91
+[04Aug2025 02:42:45.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:44273] logged in with entity id 209372 at (3113.3630364246687, -23.0, -129.95969640495014)
+[04Aug2025 02:42:45.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
