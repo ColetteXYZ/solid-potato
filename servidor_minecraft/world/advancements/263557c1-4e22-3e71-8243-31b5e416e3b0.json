@@ -1337,6 +1337,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-04 02:20:29 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-07-28 04:05:11 +0000"
@@ -2868,6 +2874,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-04 01:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-19 03:05:35 +0000"
@@ -3723,6 +3735,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-20 21:10:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-04 01:36:07 +0000"
     },
     "done": true
   },
@@ -6144,6 +6162,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/crocodile_chestplate": {
+    "criteria": {
+      "has_items": "2025-08-04 01:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-07-21 23:26:13 +0000"
@@ -6507,6 +6531,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2025-07-21 21:40:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-08-04 01:17:54 +0000"
     },
     "done": true
   },
