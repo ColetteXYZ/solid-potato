@@ -4381,3 +4381,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [04Aug2025 00:50:45.025] [Server thread/INFO] [armorplus/]: Charge at: 28
 [04Aug2025 00:50:47.927] [Server thread/INFO] [armorplus/]: Charge at: 56
 [04Aug2025 00:50:55.076] [Server thread/INFO] [armorplus/]: Charge at: 138
+[04Aug2025 00:54:05.309] [Server thread/INFO] [armorplus/]: Charge at: 33
+[04Aug2025 00:54:07.423] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 00:54:09.573] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 00:54:09.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 00:54:09.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 00:54:11.618] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 00:54:13.921] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 00:54:16.220] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 00:54:18.630] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 00:54:20.726] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 00:56:02.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Ice Scream]
+[04Aug2025 00:56:09.058] [Server thread/INFO] [armorplus/]: Charge at: 20
+[04Aug2025 00:56:10.571] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 00:56:58.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [An Impostor Amoung Us]
+[04Aug2025 00:59:09.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 00:59:09.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 01:03:14.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
+[04Aug2025 01:03:16.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
