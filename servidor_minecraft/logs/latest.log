@@ -697,3 +697,20 @@
 [04Aug2025 03:05:23.721] [Server thread/INFO] [armorplus/]: Charge at: 23
 [04Aug2025 03:05:34.373] [Server thread/INFO] [armorplus/]: Charge at: 9
 [04Aug2025 03:06:37.373] [Server thread/INFO] [armorplus/]: Charge at: 15
+[04Aug2025 03:07:44.674] [Server thread/INFO] [armorplus/]: Charge at: 51
+[04Aug2025 03:07:46.713] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 03:07:48.315] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 03:07:48.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was shot by PredatorX_2000
+[04Aug2025 03:07:49.623] [Server thread/INFO] [armorplus/]: Charge at: 5
+[04Aug2025 03:07:52.927] [Server thread/INFO] [armorplus/]: Charge at: 47
+[04Aug2025 03:07:55.017] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 03:07:57.268] [Server thread/INFO] [armorplus/]: Charge at: 38
+[04Aug2025 03:07:58.271] [Server thread/INFO] [armorplus/]: Charge at: 2
+[04Aug2025 03:08:48.662] [Server thread/INFO] [armorplus/]: Charge at: 89
+[04Aug2025 03:08:48.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was shot by PredatorX_2000
+[04Aug2025 03:09:58.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 6.15478177336081,6.728618392032203,22.051242093229916
+[04Aug2025 03:10:32.516] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 03:12:51.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was doomed to fall by Phantom
+[04Aug2025 03:13:04.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was burnt to a crisp whilst fighting Phantom
+[04Aug2025 03:13:04.997] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ninouzumaki with unique ID travelersbackpack.bookshelf_04.08.2025-03.13.04.dat
+[04Aug2025 03:13:04.998] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3185 Y: 75 Z: -576
