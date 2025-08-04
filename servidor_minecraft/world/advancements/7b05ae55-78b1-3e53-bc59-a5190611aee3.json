@@ -3097,6 +3097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-04 04:00:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/tools/echolocator": {
     "criteria": {
       "has_items": "2025-07-19 05:22:44 +0000"

@@ -5388,3 +5388,89 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [04Aug2025 03:47:48.212] [Server thread/INFO] [armorplus/]: Charge at: 35
 [04Aug2025 03:47:49.863] [Server thread/INFO] [armorplus/]: Charge at: 22
 [04Aug2025 03:47:51.507] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 03:49:15.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:49:15.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:49:26.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[04Aug2025 03:49:29.717] [Server thread/INFO] [armorplus/]: Charge at: 19
+[04Aug2025 03:49:39.732] [Server thread/INFO] [armorplus/]: Charge at: 18
+[04Aug2025 03:49:40.636] [Server thread/INFO] [armorplus/]: Charge at: 9
+[04Aug2025 03:50:36.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 71.000000, 11385.500000
+[04Aug2025 03:50:36.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -5.889109856501818,-0.13090649971453416,8.14817360239752
+[04Aug2025 03:50:36.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4811ms or 96 ticks behind
+[04Aug2025 03:51:16.264] [Server thread/INFO] [armorplus/]: Charge at: 9
+[04Aug2025 03:51:17.212] [Server thread/INFO] [armorplus/]: Charge at: 14
+[04Aug2025 03:51:18.206] [Server thread/INFO] [armorplus/]: Charge at: 12
+[04Aug2025 03:51:19.162] [Server thread/INFO] [armorplus/]: Charge at: 12
+[04Aug2025 03:51:20.110] [Server thread/INFO] [armorplus/]: Charge at: 13
+[04Aug2025 03:51:20.913] [Server thread/INFO] [armorplus/]: Charge at: 9
+[04Aug2025 03:51:22.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[04Aug2025 03:51:22.487] [Server thread/INFO] [armorplus/]: Charge at: 0
+[04Aug2025 03:51:22.490] [Server thread/INFO] [armorplus/]: Charge at: 0
+[04Aug2025 03:51:22.576] [Server thread/INFO] [armorplus/]: Charge at: 3
+[04Aug2025 03:51:23.209] [Server thread/INFO] [armorplus/]: Charge at: 11
+[04Aug2025 03:51:24.863] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 03:51:30.031] [Server thread/INFO] [armorplus/]: Charge at: 13
+[04Aug2025 03:51:31.433] [Server thread/INFO] [armorplus/]: Charge at: 11
+[04Aug2025 03:51:32.229] [Server thread/INFO] [armorplus/]: Charge at: 9
+[04Aug2025 03:51:35.128] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 03:51:35.965] [Server thread/INFO] [armorplus/]: Charge at: 9
+[04Aug2025 03:51:37.887] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 03:51:38.034] [Server thread/INFO] [armorplus/]: Charge at: 1
+[04Aug2025 03:51:39.089] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 03:51:40.581] [Server thread/INFO] [armorplus/]: Charge at: 19
+[04Aug2025 03:51:42.188] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 03:52:12.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
+[04Aug2025 03:54:16.527] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 03:54:17.380] [Server thread/INFO] [armorplus/]: Charge at: 11
+[04Aug2025 03:54:17.985] [Server thread/INFO] [armorplus/]: Charge at: 8
+[04Aug2025 03:54:18.530] [Server thread/INFO] [armorplus/]: Charge at: 8
+[04Aug2025 03:54:18.934] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 03:54:19.657] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 03:54:20.436] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 03:54:20.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:54:20.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:54:20.986] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 03:54:21.551] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 03:54:22.253] [Server thread/INFO] [armorplus/]: Charge at: 14
+[04Aug2025 03:54:22.856] [Server thread/INFO] [armorplus/]: Charge at: 10
+[04Aug2025 03:54:23.246] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 03:54:24.329] [Server thread/INFO] [armorplus/]: Charge at: 20
+[04Aug2025 03:54:29.897] [Server thread/INFO] [armorplus/]: Charge at: 12
+[04Aug2025 03:54:31.083] [Server thread/INFO] [armorplus/]: Charge at: 20
+[04Aug2025 03:54:32.378] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 03:54:34.392] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 03:54:35.832] [Server thread/INFO] [armorplus/]: Charge at: 14
+[04Aug2025 03:54:37.475] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 03:54:38.737] [Server thread/INFO] [armorplus/]: Charge at: 19
+[04Aug2025 03:54:39.838] [Server thread/INFO] [armorplus/]: Charge at: 16
+[04Aug2025 03:55:21.624] [Server thread/INFO] [armorplus/]: Charge at: 5
+[04Aug2025 03:55:22.247] [Server thread/INFO] [armorplus/]: Charge at: 3
+[04Aug2025 03:55:45.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/260415, l='ServerLevel[world]', x=2424.71, y=62.42, z=7478.56] died, message: 'Villager was slain by Zombie'
+[04Aug2025 03:56:34.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[04Aug2025 03:56:48.113] [Server thread/INFO] [armorplus/]: Charge at: 12
+[04Aug2025 03:56:48.928] [Server thread/INFO] [armorplus/]: Charge at: 7
+[04Aug2025 03:56:49.978] [Server thread/INFO] [armorplus/]: Charge at: 11
+[04Aug2025 03:56:50.877] [Server thread/INFO] [armorplus/]: Charge at: 12
+[04Aug2025 03:59:20.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:59:20.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:02:06.424] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 04:02:08.014] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 04:02:10.219] [Server thread/INFO] [armorplus/]: Charge at: 41
+[04Aug2025 04:02:12.011] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 04:02:13.865] [Server thread/INFO] [armorplus/]: Charge at: 36
+[04Aug2025 04:02:15.181] [Server thread/INFO] [armorplus/]: Charge at: 22
+[04Aug2025 04:02:15.709] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 04:02:16.281] [Server thread/INFO] [armorplus/]: Charge at: 18
+[04Aug2025 04:02:17.313] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 04:02:17.510] [Server thread/INFO] [armorplus/]: Charge at: 22
+[04Aug2025 04:02:18.531] [Server thread/INFO] [armorplus/]: Charge at: 17
+[04Aug2025 04:02:19.160] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 04:02:19.531] [Server thread/INFO] [armorplus/]: Charge at: 17
+[04Aug2025 04:02:20.434] [Server thread/INFO] [armorplus/]: Charge at: 16
+[04Aug2025 04:02:20.610] [Server thread/INFO] [armorplus/]: Charge at: 27
+[04Aug2025 04:02:21.070] [Server thread/INFO] [armorplus/]: Charge at: 11
+[04Aug2025 04:03:25.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Mother of Dragons]
+[04Aug2025 04:04:20.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:04:20.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:09:20.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:09:20.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
