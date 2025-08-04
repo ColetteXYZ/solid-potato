@@ -874,3 +874,77 @@
 [04Aug2025 04:31:19.675] [Server thread/INFO] [armorplus/]: Charge at: 21
 [04Aug2025 04:31:29.671] [Server thread/INFO] [armorplus/]: Charge at: 59
 [04Aug2025 04:31:33.471] [Server thread/INFO] [armorplus/]: Charge at: 42
+[04Aug2025 04:31:39.621] [Server thread/INFO] [armorplus/]: Charge at: 88
+[04Aug2025 04:31:46.810] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 04:31:50.209] [Server thread/INFO] [armorplus/]: Charge at: 38
+[04Aug2025 04:31:52.150] [Server thread/INFO] [armorplus/]: Charge at: 36
+[04Aug2025 04:31:53.847] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 04:31:57.178] [Server thread/INFO] [armorplus/]: Charge at: 63
+[04Aug2025 04:31:58.972] [Server thread/INFO] [armorplus/]: Charge at: 47
+[04Aug2025 04:31:59.051] [Server thread/INFO] [armorplus/]: Charge at: 36
+[04Aug2025 04:32:00.749] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 04:32:02.212] [Server thread/INFO] [armorplus/]: Charge at: 33
+[04Aug2025 04:32:04.046] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 04:32:04.923] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 04:32:05.999] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 04:32:06.914] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 04:32:07.584] [Server thread/INFO] [armorplus/]: Charge at: 27
+[04Aug2025 04:32:09.984] [Server thread/INFO] [armorplus/]: Charge at: 44
+[04Aug2025 04:32:12.183] [Server thread/INFO] [armorplus/]: Charge at: 42
+[04Aug2025 04:32:14.048] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 04:32:15.801] [Server thread/INFO] [armorplus/]: Charge at: 33
+[04Aug2025 04:32:16.223] [Server thread/INFO] [armorplus/]: Charge at: 43
+[04Aug2025 04:32:16.976] [Server thread/INFO] [armorplus/]: Charge at: 8
+[04Aug2025 04:32:17.257] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 04:32:18.312] [Server thread/INFO] [armorplus/]: Charge at: 20
+[04Aug2025 04:32:19.100] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 04:32:19.224] [Server thread/INFO] [armorplus/]: Charge at: 14
+[04Aug2025 04:32:20.024] [Server thread/INFO] [armorplus/]: Charge at: 13
+[04Aug2025 04:32:20.474] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 04:32:20.926] [Server thread/INFO] [armorplus/]: Charge at: 5
+[04Aug2025 04:32:20.949] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 04:32:21.277] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 04:32:21.513] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 04:32:21.865] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 04:32:22.613] [Server thread/INFO] [armorplus/]: Charge at: 13
+[04Aug2025 04:32:23.124] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 04:32:23.525] [Server thread/INFO] [armorplus/]: Charge at: 5
+[04Aug2025 04:32:23.975] [Server thread/INFO] [armorplus/]: Charge at: 6
+[04Aug2025 04:32:24.004] [Server thread/INFO] [armorplus/]: Charge at: 59
+[04Aug2025 04:32:24.476] [Server thread/INFO] [armorplus/]: Charge at: 8
+[04Aug2025 04:32:24.977] [Server thread/INFO] [armorplus/]: Charge at: 7
+[04Aug2025 04:32:25.277] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 04:32:25.577] [Server thread/INFO] [armorplus/]: Charge at: 4
+[04Aug2025 04:32:25.984] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 04:32:27.833] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 04:32:29.050] [Server thread/INFO] [armorplus/]: Charge at: 22
+[04Aug2025 04:32:32.699] [Server thread/INFO] [armorplus/]: Charge at: 67
+[04Aug2025 04:32:37.402] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 04:32:40.583] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 04:32:48.104] [Server thread/INFO] [armorplus/]: Charge at: 27
+[04Aug2025 04:33:01.334] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 04:33:03.703] [Server thread/INFO] [armorplus/]: Charge at: 45
+[04Aug2025 04:33:53.256] [Server thread/INFO] [armorplus/]: Charge at: 36
+[04Aug2025 04:34:03.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
+[04Aug2025 04:34:03.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
+[04Aug2025 04:34:19.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[04Aug2025 04:34:19.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[04Aug2025 04:34:38.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Aug2025 04:34:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Aug2025 04:34:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Aug2025 04:34:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Aug2025 04:34:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Aug2025 04:34:40.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Aug2025 04:34:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/peru_mod:hanan
+[04Aug2025 04:34:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/panthalassa:panthalassa
+[04Aug2025 04:34:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Aug2025 04:34:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[04Aug2025 04:34:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (panthalassa): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
