@@ -4306,3 +4306,78 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [04Aug2025 00:31:00.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Aug2025 00:31:01.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
 [04Aug2025 00:31:54.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Clash of the Titans]
+[04Aug2025 00:34:05.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 00:34:05.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 00:34:28.127] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 00:34:46.870] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 00:34:48.922] [Server thread/INFO] [armorplus/]: Charge at: 38
+[04Aug2025 00:34:49.063] [Server thread/INFO] [armorplus/]: Charge at: 1
+[04Aug2025 00:34:50.970] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 00:34:53.020] [Server thread/INFO] [armorplus/]: Charge at: 38
+[04Aug2025 00:34:54.170] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 00:34:55.521] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 00:35:27.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [A Flaming Sword]
+[04Aug2025 00:35:58.506] [Server thread/INFO] [armorplus/]: Charge at: 90
+[04Aug2025 00:36:02.405] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 00:36:04.650] [Server thread/INFO] [armorplus/]: Charge at: 53
+[04Aug2025 00:36:04.914] [Server thread/INFO] [armorplus/]: Charge at: 39
+[04Aug2025 00:36:07.469] [Server thread/INFO] [armorplus/]: Charge at: 47
+[04Aug2025 00:36:08.455] [Server thread/INFO] [armorplus/]: Charge at: 41
+[04Aug2025 00:36:11.853] [Server thread/INFO] [armorplus/]: Charge at: 86
+[04Aug2025 00:36:11.854] [Server thread/INFO] [armorplus/]: Charge at: 52
+[04Aug2025 00:36:13.707] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 00:36:15.111] [Server thread/INFO] [armorplus/]: Charge at: 60
+[04Aug2025 00:36:19.875] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 00:36:23.953] [Server thread/INFO] [armorplus/]: Charge at: 43
+[04Aug2025 00:36:25.268] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 00:36:25.756] [Server thread/INFO] [armorplus/]: Charge at: 27
+[04Aug2025 00:36:28.701] [Server thread/INFO] [armorplus/]: Charge at: 55
+[04Aug2025 00:36:31.151] [Server thread/INFO] [armorplus/]: Charge at: 39
+[04Aug2025 00:36:33.601] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 00:36:35.018] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 00:36:35.603] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 00:36:37.454] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 00:36:38.368] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 00:36:39.702] [Server thread/INFO] [armorplus/]: Charge at: 36
+[04Aug2025 00:36:41.604] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 00:38:52.060] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 00:39:05.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 00:39:05.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 00:41:27.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123544, l='ServerLevel[world]', x=2989.50, y=74.00, z=-1979.40] died, message: 'Villager was slain by Ice Dragon'
+[04Aug2025 00:41:41.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123570, l='ServerLevel[world]', x=2978.01, y=72.00, z=-1931.99] died, message: 'Villager was turned to ice by Ice Dragon'
+[04Aug2025 00:41:52.222] [Server thread/INFO] [armorplus/]: Charge at: 19
+[04Aug2025 00:41:53.815] [Server thread/INFO] [armorplus/]: Charge at: 20
+[04Aug2025 00:41:55.377] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 00:41:56.769] [Server thread/INFO] [armorplus/]: Charge at: 23
+[04Aug2025 00:41:58.165] [Server thread/INFO] [armorplus/]: Charge at: 27
+[04Aug2025 00:44:05.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 00:44:05.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 00:46:53.260] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 00:46:54.710] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 00:46:56.310] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 00:46:58.213] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 00:46:59.813] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 00:47:01.312] [Server thread/INFO] [armorplus/]: Charge at: 16
+[04Aug2025 00:47:01.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Dragonslayer]
+[04Aug2025 00:47:24.365] [Server thread/INFO] [armorplus/]: Charge at: 23
+[04Aug2025 00:47:26.516] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 00:47:27.876] [Server thread/INFO] [armorplus/]: Charge at: 26
+[04Aug2025 00:47:29.412] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 00:47:31.121] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 00:48:09.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3974ms or 79 ticks behind
+[04Aug2025 00:49:09.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 00:49:09.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 00:49:13.625] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 00:49:15.629] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 00:49:17.411] [Server thread/INFO] [armorplus/]: Charge at: 34
+[04Aug2025 00:49:19.103] [Server thread/INFO] [armorplus/]: Charge at: 33
+[04Aug2025 00:49:21.199] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 00:49:22.769] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 00:49:24.321] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 00:49:25.866] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 00:50:36.526] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 00:50:38.404] [Server thread/INFO] [armorplus/]: Charge at: 35
+[04Aug2025 00:50:43.076] [Server thread/INFO] [armorplus/]: Charge at: 87
+[04Aug2025 00:50:45.025] [Server thread/INFO] [armorplus/]: Charge at: 28
+[04Aug2025 00:50:47.927] [Server thread/INFO] [armorplus/]: Charge at: 56
+[04Aug2025 00:50:55.076] [Server thread/INFO] [armorplus/]: Charge at: 138

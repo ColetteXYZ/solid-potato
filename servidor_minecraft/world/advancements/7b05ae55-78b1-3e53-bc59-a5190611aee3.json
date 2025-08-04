@@ -2058,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-04 00:48:59 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_arrow": {
     "criteria": {
       "has_req": "2025-08-01 05:54:58 +0000"
@@ -3006,6 +3012,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-08-04 00:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-07-28 05:06:24 +0000"
@@ -3242,6 +3254,7 @@
       "minecraft:piglin_brute": "2025-07-30 00:59:52 +0000",
       "minecraft:creeper": "2025-07-21 06:52:24 +0000",
       "minecraft:evoker": "2025-08-01 01:45:06 +0000",
+      "minecraft:phantom": "2025-08-04 00:39:46 +0000",
       "minecraft:zombified_piglin": "2025-08-01 05:07:41 +0000",
       "minecraft:wither_skeleton": "2025-07-30 02:04:54 +0000",
       "minecraft:ender_dragon": "2025-08-01 05:39:30 +0000",
@@ -3897,6 +3910,7 @@
       "minecraft:river": "2025-07-19 01:15:48 +0000",
       "minecraft:lukewarm_ocean": "2025-07-20 21:07:42 +0000",
       "minecraft:stony_shore": "2025-07-19 02:39:47 +0000",
+      "minecraft:snowy_plains": "2025-08-04 00:34:37 +0000",
       "minecraft:snowy_taiga": "2025-07-20 03:02:31 +0000",
       "minecraft:dripstone_caves": "2025-08-01 00:54:45 +0000",
       "minecraft:swamp": "2025-07-20 03:14:34 +0000",
@@ -3905,6 +3919,7 @@
       "minecraft:forest": "2025-07-19 00:49:25 +0000",
       "minecraft:lush_caves": "2025-07-19 03:23:45 +0000",
       "minecraft:deep_cold_ocean": "2025-07-19 05:01:46 +0000",
+      "minecraft:ice_spikes": "2025-08-04 00:49:01 +0000",
       "minecraft:frozen_ocean": "2025-08-01 05:17:09 +0000",
       "minecraft:desert": "2025-07-28 07:29:47 +0000",
       "minecraft:windswept_forest": "2025-07-20 03:14:57 +0000",
@@ -4450,6 +4465,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-08-04 00:31:54 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/coal/coal_helmet": {
     "criteria": {
       "has_req": "2025-07-21 06:08:16 +0000"
@@ -4483,6 +4504,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-07-20 18:19:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-08-04 00:47:01 +0000"
     },
     "done": true
   },
@@ -5254,6 +5281,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-04 00:48:59 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-07-21 22:29:18 +0000"
@@ -5377,6 +5410,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-07-30 06:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-04 00:48:59 +0000"
     },
     "done": true
   },
