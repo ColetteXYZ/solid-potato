@@ -5318,3 +5318,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [04Aug2025 03:13:16.972] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754277196972
 [04Aug2025 03:14:15.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 03:14:15.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:19:16.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:19:16.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:20:53.378] [Server thread/INFO] [armorplus/]: Charge at: 63
+[04Aug2025 03:21:53.583] [Server thread/INFO] [armorplus/]: Charge at: 47
+[04Aug2025 03:21:53.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was shot by PredatorX_2000
+[04Aug2025 03:24:15.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:24:15.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:25:18.880] [Server thread/INFO] [armorplus/]: Charge at: 60
+[04Aug2025 03:25:20.641] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 03:25:22.076] [Server thread/INFO] [armorplus/]: Charge at: 24
+[04Aug2025 03:25:25.180] [Server thread/INFO] [armorplus/]: Charge at: 59
+[04Aug2025 03:25:27.983] [Server thread/INFO] [armorplus/]: Charge at: 53
+[04Aug2025 03:25:34.980] [Server thread/INFO] [armorplus/]: Charge at: 125
+[04Aug2025 03:25:42.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was burnt to a crisp whilst fighting Fire Dragon
+[04Aug2025 03:25:52.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was burnt to a crisp whilst fighting Fire Dragon
+[04Aug2025 03:25:52.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ninouzumaki with unique ID travelersbackpack.bookshelf_04.08.2025-03.25.52.dat
+[04Aug2025 03:25:52.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3162 Y: 19 Z: -175
+[04Aug2025 03:25:53.716] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1754277953716
+[04Aug2025 03:26:00.536] [Server thread/INFO] [armorplus/]: Charge at: 19
+[04Aug2025 03:26:18.732] [Server thread/INFO] [armorplus/]: Charge at: 25
+[04Aug2025 03:26:20.432] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 03:26:26.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Spectator Mode
+[04Aug2025 03:26:26.089] [Server thread/INFO] [armorplus/]: Charge at: 21
+[04Aug2025 03:27:00.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported ninouzumaki to 3162.500000, 19.000000, -174.500000
+[04Aug2025 03:27:10.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
+[04Aug2025 03:27:15.451] [Server thread/INFO] [armorplus/]: Charge at: 32
+[04Aug2025 03:27:17.383] [Server thread/INFO] [armorplus/]: Charge at: 31
+[04Aug2025 03:27:27.803] [Server thread/INFO] [armorplus/]: Charge at: 29
+[04Aug2025 03:27:29.970] [Server thread/INFO] [armorplus/]: Charge at: 36
+[04Aug2025 03:27:32.073] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 03:27:35.123] [Server thread/INFO] [armorplus/]: Charge at: 57
+[04Aug2025 03:27:37.303] [Server thread/INFO] [armorplus/]: Charge at: 40
