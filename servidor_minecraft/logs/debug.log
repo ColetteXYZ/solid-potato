@@ -5350,3 +5350,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [04Aug2025 03:27:32.073] [Server thread/INFO] [armorplus/]: Charge at: 40
 [04Aug2025 03:27:35.123] [Server thread/INFO] [armorplus/]: Charge at: 57
 [04Aug2025 03:27:37.303] [Server thread/INFO] [armorplus/]: Charge at: 40
+[04Aug2025 03:29:15.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:29:15.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:29:33.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -5.591892100788755,-3.3594124209233485,8.009678856178681
+[04Aug2025 03:34:15.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:34:15.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:34:54.858] [Server thread/INFO] [armorplus/]: Charge at: 37
+[04Aug2025 03:36:27.009] [Server thread/INFO] [armorplus/]: Charge at: 30
+[04Aug2025 03:36:28.359] [Server thread/INFO] [armorplus/]: Charge at: 22
+[04Aug2025 03:36:29.757] [Server thread/INFO] [armorplus/]: Charge at: 14
