@@ -4252,3 +4252,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [03Aug2025 23:49:30.812] [Server thread/INFO] [armorplus/]: Charge at: 25
 [03Aug2025 23:49:32.114] [Server thread/INFO] [armorplus/]: Charge at: 24
 [03Aug2025 23:49:33.315] [Server thread/INFO] [armorplus/]: Charge at: 22
+[03Aug2025 23:54:02.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:54:02.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:58:33.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Aug2025 23:59:02.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2025 23:59:02.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2025 23:59:05.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
+[03Aug2025 23:59:05.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -16.76176563782201,4.133816748183477,5.458003435130195
+[04Aug2025 00:00:34.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3851, y=24, z=108} but found not block entity block Block{minecraft:water}[level=2] at location
+[04Aug2025 00:00:34.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=3851, y=24, z=108}
