@@ -188,3 +188,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 [28Aug2025 00:25:16.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
 [28Aug2025 00:32:53.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -12.449140584644283,-1.4103062144585294,-10.917501982768783
 [28Aug2025 00:33:11.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -8.059275900815464,-0.5499999999999687,6.395536951589236
+[28Aug2025 00:43:55.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
+[28Aug2025 00:43:55.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
+[28Aug2025 00:44:04.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[28Aug2025 00:44:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Aug2025 00:44:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Aug2025 00:44:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Aug2025 00:44:05.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Aug2025 00:44:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[28Aug2025 00:44:05.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[28Aug2025 00:44:05.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/panthalassa:panthalassa
+[28Aug2025 00:44:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Aug2025 00:44:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Aug2025 00:44:05.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/peru_mod:hanan
+[28Aug2025 00:44:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Aug2025 00:44:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[28Aug2025 00:44:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[28Aug2025 00:44:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (panthalassa): All chunks are saved
+[28Aug2025 00:44:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Aug2025 00:44:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Aug2025 00:44:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
+[28Aug2025 00:44:05.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
