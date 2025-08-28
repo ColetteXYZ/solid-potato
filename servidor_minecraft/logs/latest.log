@@ -1,950 +1,188 @@
-[04Aug2025 00:00:34.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3851, y=24, z=108} but found not block entity block Block{minecraft:water}[level=2] at location
-[04Aug2025 00:00:34.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=3851, y=24, z=108}
-[04Aug2025 00:02:39.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[04Aug2025 00:04:03.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 00:04:19.015] [Server thread/INFO] [armorplus/]: Charge at: 41
-[04Aug2025 00:06:50.222] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 00:12:37.831] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 00:12:53.083] [Server thread/INFO] [armorplus/]: Charge at: 38
-[04Aug2025 00:12:54.877] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 00:12:55.921] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 00:13:16.773] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 00:13:18.215] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 00:13:19.676] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 00:13:29.270] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 00:13:34.029] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 00:13:37.382] [Server thread/INFO] [armorplus/]: Charge at: 63
-[04Aug2025 00:13:57.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3177, y=88, z=-447} BlockPos{x=3176, y=87, z=-447}
-[04Aug2025 00:21:06.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 9.528553580458265,-2.5892595305735995,-6.636270489915432
-[04Aug2025 00:22:01.014] [Server thread/INFO] [armorplus/]: Charge at: 1
-[04Aug2025 00:27:35.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3180, y=54, z=-2005} but found not block entity block Block{minecraft:water}[level=0] at location
-[04Aug2025 00:27:35.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=3180, y=54, z=-2005}
-[04Aug2025 00:28:19.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3025ms or 60 ticks behind
-[04Aug2025 00:29:23.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2925, y=63, z=-1685} BlockPos{x=2925, y=64, z=-1684}
-[04Aug2025 00:29:23.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2925, y=63, z=-1685} BlockPos{x=2925, y=64, z=-1684}
-[04Aug2025 00:29:27.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2926, y=63, z=-1693} BlockPos{x=2926, y=64, z=-1692}
-[04Aug2025 00:29:27.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2926, y=63, z=-1693} BlockPos{x=2926, y=64, z=-1692}
-[04Aug2025 00:30:53.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:30:53.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:30:53.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:30:53.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:30:53.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:31:00.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:31:00.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 00:31:01.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[04Aug2025 00:31:54.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Clash of the Titans]
-[04Aug2025 00:34:28.127] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 00:34:46.870] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 00:34:48.922] [Server thread/INFO] [armorplus/]: Charge at: 38
-[04Aug2025 00:34:49.063] [Server thread/INFO] [armorplus/]: Charge at: 1
-[04Aug2025 00:34:50.970] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 00:34:53.020] [Server thread/INFO] [armorplus/]: Charge at: 38
-[04Aug2025 00:34:54.170] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 00:34:55.521] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 00:35:27.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [A Flaming Sword]
-[04Aug2025 00:35:58.506] [Server thread/INFO] [armorplus/]: Charge at: 90
-[04Aug2025 00:36:02.405] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 00:36:04.650] [Server thread/INFO] [armorplus/]: Charge at: 53
-[04Aug2025 00:36:04.914] [Server thread/INFO] [armorplus/]: Charge at: 39
-[04Aug2025 00:36:07.469] [Server thread/INFO] [armorplus/]: Charge at: 47
-[04Aug2025 00:36:08.455] [Server thread/INFO] [armorplus/]: Charge at: 41
-[04Aug2025 00:36:11.853] [Server thread/INFO] [armorplus/]: Charge at: 86
-[04Aug2025 00:36:11.854] [Server thread/INFO] [armorplus/]: Charge at: 52
-[04Aug2025 00:36:13.707] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 00:36:15.111] [Server thread/INFO] [armorplus/]: Charge at: 60
-[04Aug2025 00:36:19.875] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 00:36:23.953] [Server thread/INFO] [armorplus/]: Charge at: 43
-[04Aug2025 00:36:25.268] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 00:36:25.756] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 00:36:28.701] [Server thread/INFO] [armorplus/]: Charge at: 55
-[04Aug2025 00:36:31.151] [Server thread/INFO] [armorplus/]: Charge at: 39
-[04Aug2025 00:36:33.601] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 00:36:35.018] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 00:36:35.603] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 00:36:37.454] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 00:36:38.368] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 00:36:39.702] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 00:36:41.604] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 00:38:52.060] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 00:41:27.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123544, l='ServerLevel[world]', x=2989.50, y=74.00, z=-1979.40] died, message: 'Villager was slain by Ice Dragon'
-[04Aug2025 00:41:41.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/123570, l='ServerLevel[world]', x=2978.01, y=72.00, z=-1931.99] died, message: 'Villager was turned to ice by Ice Dragon'
-[04Aug2025 00:41:52.222] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 00:41:53.815] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 00:41:55.377] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 00:41:56.769] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 00:41:58.165] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 00:46:53.260] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 00:46:54.710] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 00:46:56.310] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 00:46:58.213] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 00:46:59.813] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 00:47:01.312] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 00:47:01.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Dragonslayer]
-[04Aug2025 00:47:24.365] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 00:47:26.516] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 00:47:27.876] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 00:47:29.412] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 00:47:31.121] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 00:48:09.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3974ms or 79 ticks behind
-[04Aug2025 00:49:13.625] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 00:49:15.629] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 00:49:17.411] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 00:49:19.103] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 00:49:21.199] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 00:49:22.769] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 00:49:24.321] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 00:49:25.866] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 00:50:36.526] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 00:50:38.404] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 00:50:43.076] [Server thread/INFO] [armorplus/]: Charge at: 87
-[04Aug2025 00:50:45.025] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 00:50:47.927] [Server thread/INFO] [armorplus/]: Charge at: 56
-[04Aug2025 00:50:55.076] [Server thread/INFO] [armorplus/]: Charge at: 138
-[04Aug2025 00:54:05.309] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 00:54:07.423] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 00:54:09.573] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 00:54:11.618] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 00:54:13.921] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 00:54:16.220] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 00:54:18.630] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 00:54:20.726] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 00:56:02.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has reached the goal [Ice Scream]
-[04Aug2025 00:56:09.058] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 00:56:10.571] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 00:56:58.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [An Impostor Amoung Us]
-[04Aug2025 01:03:14.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
-[04Aug2025 01:03:16.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
-[04Aug2025 01:05:16.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DiamondKingX> 2492 74 -2227
-[04Aug2025 01:08:15.851] [Server thread/INFO] [armorplus/]: Charge at: 51
-[04Aug2025 01:08:18.498] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 01:08:22.380] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 01:08:24.119] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 01:08:26.170] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 01:09:00.946] [Server thread/INFO] [armorplus/]: Charge at: 54
-[04Aug2025 01:09:03.871] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 01:09:05.715] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 01:09:07.619] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 01:12:17.882] [Server thread/INFO] [armorplus/]: Charge at: 50
-[04Aug2025 01:12:19.576] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 01:12:20.973] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 01:12:21.651] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 01:12:23.218] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 01:12:25.065] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 01:12:26.771] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 01:12:28.404] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 01:12:29.520] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 01:12:29.752] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 01:12:31.273] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 01:12:32.102] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 01:12:33.024] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 01:12:35.329] [Server thread/INFO] [armorplus/]: Charge at: 44
-[04Aug2025 01:12:36.766] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 01:12:38.419] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 01:12:39.768] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 01:12:41.251] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 01:12:42.152] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 01:12:42.607] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 01:12:44.101] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 01:12:44.304] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 01:12:45.866] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 01:12:46.302] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 01:12:47.576] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 01:12:48.202] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 01:12:49.020] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 01:12:50.153] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 01:12:51.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/141083, l='ServerLevel[world]', x=2502.51, y=69.00, z=-2350.62] died, message: 'Villager was shot by DiamondKingX'
-[04Aug2025 01:17:54.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has completed the challenge [Rude Awakening]
-[04Aug2025 01:19:52.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2680, y=41, z=-2729} but found not block entity block Block{minecraft:water}[level=0] at location
-[04Aug2025 01:19:52.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=2680, y=41, z=-2729}
-[04Aug2025 01:21:47.921] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 01:21:49.516] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 01:21:51.168] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 01:21:52.654] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 01:21:54.271] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 01:21:55.978] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 01:23:57.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Ice Scream]
-[04Aug2025 01:25:23.573] [Server thread/INFO] [armorplus/]: Charge at: 38
-[04Aug2025 01:27:32.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has completed the challenge [Rude Awakening]
-[04Aug2025 01:28:27.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Chompy]
-[04Aug2025 01:33:19.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:19.863] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:19.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:20.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:21.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:21.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:21.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:21.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:33:21.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:36:07.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Tie me to the Mast]
-[04Aug2025 01:42:28.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [Pic-A-Nic Basket?]
-[04Aug2025 01:44:13.066] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:46:48.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 01:46:55.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.32219101129157934
-[04Aug2025 01:46:56.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.5911059040076907
-[04Aug2025 01:46:56.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DiamondKingX) moved wrongly! 0.9132845912399716
-[04Aug2025 01:48:21.222] [Server thread/INFO] [armorplus/]: Charge at: 7
-[04Aug2025 01:55:46.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 01:55:58.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 01:57:03.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 01:57:31.789] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 01:57:41.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[04Aug2025 01:57:41.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[04Aug2025 01:58:45.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -0.5981204524673558,7.335132124020447,21.070769255331925
-[04Aug2025 01:59:37.729] [Server thread/INFO] [armorplus/]: Charge at: 45
-[04Aug2025 01:59:39.376] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 01:59:40.778] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 01:59:42.318] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 01:59:43.824] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 01:59:45.276] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 01:59:47.918] [Server thread/INFO] [armorplus/]: Charge at: 51
-[04Aug2025 02:01:21.705] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a378cee
-[04Aug2025 02:01:21.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PredatorX_2000[/127.255.187.82:39269] logged in with entity id 179283 at (3267.2921265932387, 65.0, 593.4462752414956)
-[04Aug2025 02:01:21.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 joined the game
-[04Aug2025 02:03:54.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! 12.884630776075937,-0.7539241357416131,1.3372856670321198
-[04Aug2025 02:04:41.424] [Server thread/INFO] [armorplus/]: Charge at: 70
-[04Aug2025 02:04:46.256] [Server thread/INFO] [armorplus/]: Charge at: 67
-[04Aug2025 02:04:49.425] [Server thread/INFO] [armorplus/]: Charge at: 42
-[04Aug2025 02:04:52.324] [Server thread/INFO] [armorplus/]: Charge at: 47
-[04Aug2025 02:04:56.674] [Server thread/INFO] [armorplus/]: Charge at: 55
-[04Aug2025 02:04:59.973] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 02:05:00.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has made the advancement [My Name is Nobody]
-[04Aug2025 02:05:10.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 02:05:10.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 02:08:06.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 02:08:23.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 02:08:23.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 02:09:57.874] [Server thread/INFO] [armorplus/]: Charge at: 71
-[04Aug2025 02:10:01.328] [Server thread/INFO] [armorplus/]: Charge at: 63
-[04Aug2025 02:10:03.778] [Server thread/INFO] [armorplus/]: Charge at: 43
-[04Aug2025 02:10:07.278] [Server thread/INFO] [armorplus/]: Charge at: 66
-[04Aug2025 02:10:10.427] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 02:15:11.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peru_mod:caiman_spawner but it was marked as removed already
-[04Aug2025 02:19:42.081] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 02:19:43.634] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 02:19:44.952] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 02:19:46.133] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 02:19:47.484] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 02:19:48.959] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 02:19:50.553] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 02:20:28.673] [Server thread/INFO] [armorplus/]: Charge at: 45
-[04Aug2025 02:20:29.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Herc was on a Roll!]
-[04Aug2025 02:20:31.829] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 02:20:35.025] [Server thread/INFO] [armorplus/]: Charge at: 58
-[04Aug2025 02:20:37.707] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 02:21:14.325] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 02:21:16.525] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 02:21:18.423] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 02:21:20.378] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 02:25:40.277] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 02:25:41.727] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 02:25:43.023] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 02:25:44.879] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 02:25:45.580] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 02:25:47.160] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 02:25:48.534] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 02:25:50.626] [Server thread/INFO] [armorplus/]: Charge at: 41
-[04Aug2025 02:25:51.873] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 02:25:53.786] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 02:25:55.378] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 02:28:43.314] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2152, y=18, z=-1257} but found not block entity block Block{minecraft:water}[level=0] at location
-[04Aug2025 02:28:43.314] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=2152, y=18, z=-1257}
-[04Aug2025 02:30:57.410] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 02:30:58.671] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 02:30:59.866] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 02:31:27.118] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 02:31:34.561] [Server thread/INFO] [armorplus/]: Charge at: 131
-[04Aug2025 02:31:35.761] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 02:31:37.662] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 02:31:38.763] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 02:31:39.660] [Server thread/INFO] [armorplus/]: Charge at: 15
-[04Aug2025 02:31:40.961] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 02:31:47.611] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 02:31:48.943] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 02:31:50.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:51.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.796] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:52.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:53.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:54.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:55.900] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:56.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:57.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:58.902] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.004] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.301] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.401] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:31:59.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.202] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.301] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.700] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:00.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.000] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.199] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.301] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.599] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.803] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.902] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:01.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.298] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:02.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:03.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.206] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.902] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:04.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.297] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:05.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.402] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.602] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:32:06.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:33:19.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved wrongly!
-[04Aug2025 02:34:31.810] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 02:34:33.133] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 02:34:34.830] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 02:34:36.574] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 02:34:38.728] [Server thread/INFO] [armorplus/]: Charge at: 41
-[04Aug2025 02:37:03.405] [Server thread/INFO] [armorplus/]: Charge at: 2
-[04Aug2025 02:40:25.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
-[04Aug2025 02:40:25.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
-[04Aug2025 02:42:45.035] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@21432d91
-[04Aug2025 02:42:45.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninouzumaki[/127.222.81.109:44273] logged in with entity id 209372 at (3113.3630364246687, -23.0, -129.95969640495014)
-[04Aug2025 02:42:45.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki joined the game
-[04Aug2025 02:56:39.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 9.677387004153843,4.669971812511079,-0.9368675512791924
-[04Aug2025 02:56:46.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[04Aug2025 02:58:23.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:23.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:23.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:23.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:23.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:23.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:24.957] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:26.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:27.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.232] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:28.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:29.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:30.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.734] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:31.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:32.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:33.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:35.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:35.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:35.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:35.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:35.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:35.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.428] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:36.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.167] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.225] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 02:58:37.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.691] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:37.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.587] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 02:58:38.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:38.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:39.928] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 02:58:40.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.132] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.631] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:40.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.182] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 02:58:41.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:41.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:42.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:42.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:42.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:42.481] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 02:58:43.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:43.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:43.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:43.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:43.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:44.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:45.125] [Server thread/INFO] [armorplus/]: Charge at: 50
-[04Aug2025 02:58:46.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:46.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:46.819] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:46.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:47.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.541] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:48.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.339] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.818] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:49.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:50.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.168] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.320] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.795] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.877] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:51.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.305] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 02:58:52.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[04Aug2025 03:00:41.066] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 03:00:48.419] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 03:00:51.515] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 03:00:52.921] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 03:00:54.225] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:00:55.319] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 03:00:56.519] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:00:57.614] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 03:00:58.616] [Server thread/INFO] [armorplus/]: Charge at: 15
-[04Aug2025 03:00:59.722] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 03:01:00.716] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:01:01.726] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:01:02.918] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:01:04.722] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 03:01:06.122] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 03:01:07.723] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 03:01:09.516] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 03:01:13.269] [Server thread/INFO] [armorplus/]: Charge at: 15
-[04Aug2025 03:01:14.269] [Server thread/INFO] [armorplus/]: Charge at: 7
-[04Aug2025 03:01:32.670] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 03:05:23.721] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 03:05:34.373] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 03:06:37.373] [Server thread/INFO] [armorplus/]: Charge at: 15
-[04Aug2025 03:07:44.674] [Server thread/INFO] [armorplus/]: Charge at: 51
-[04Aug2025 03:07:46.713] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 03:07:48.315] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 03:07:48.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was shot by PredatorX_2000
-[04Aug2025 03:07:49.623] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 03:07:52.927] [Server thread/INFO] [armorplus/]: Charge at: 47
-[04Aug2025 03:07:55.017] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 03:07:57.268] [Server thread/INFO] [armorplus/]: Charge at: 38
-[04Aug2025 03:07:58.271] [Server thread/INFO] [armorplus/]: Charge at: 2
-[04Aug2025 03:08:48.662] [Server thread/INFO] [armorplus/]: Charge at: 89
-[04Aug2025 03:08:48.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was shot by PredatorX_2000
-[04Aug2025 03:09:58.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 6.15478177336081,6.728618392032203,22.051242093229916
-[04Aug2025 03:10:32.516] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 03:12:51.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was doomed to fall by Phantom
-[04Aug2025 03:13:04.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was burnt to a crisp whilst fighting Phantom
-[04Aug2025 03:13:04.997] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ninouzumaki with unique ID travelersbackpack.bookshelf_04.08.2025-03.13.04.dat
-[04Aug2025 03:13:04.998] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3185 Y: 75 Z: -576
-[04Aug2025 03:20:53.378] [Server thread/INFO] [armorplus/]: Charge at: 63
-[04Aug2025 03:21:53.583] [Server thread/INFO] [armorplus/]: Charge at: 47
-[04Aug2025 03:21:53.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was shot by PredatorX_2000
-[04Aug2025 03:25:18.880] [Server thread/INFO] [armorplus/]: Charge at: 60
-[04Aug2025 03:25:20.641] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 03:25:22.076] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 03:25:25.180] [Server thread/INFO] [armorplus/]: Charge at: 59
-[04Aug2025 03:25:27.983] [Server thread/INFO] [armorplus/]: Charge at: 53
-[04Aug2025 03:25:34.980] [Server thread/INFO] [armorplus/]: Charge at: 125
-[04Aug2025 03:25:42.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki is bleeding. ninouzumaki was burnt to a crisp whilst fighting Fire Dragon
-[04Aug2025 03:25:52.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki was burnt to a crisp whilst fighting Fire Dragon
-[04Aug2025 03:25:52.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ninouzumaki with unique ID travelersbackpack.bookshelf_04.08.2025-03.25.52.dat
-[04Aug2025 03:25:52.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3162 Y: 19 Z: -175
-[04Aug2025 03:26:00.536] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 03:26:18.732] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 03:26:20.432] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 03:26:26.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Spectator Mode
-[04Aug2025 03:26:26.089] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 03:27:00.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported ninouzumaki to 3162.500000, 19.000000, -174.500000
-[04Aug2025 03:27:10.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[04Aug2025 03:27:15.451] [Server thread/INFO] [armorplus/]: Charge at: 32
-[04Aug2025 03:27:17.383] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 03:27:27.803] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 03:27:29.970] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 03:27:32.073] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 03:27:35.123] [Server thread/INFO] [armorplus/]: Charge at: 57
-[04Aug2025 03:27:37.303] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 03:29:33.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -5.591892100788755,-3.3594124209233485,8.009678856178681
-[04Aug2025 03:34:54.858] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 03:36:27.009] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 03:36:28.359] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 03:36:29.757] [Server thread/INFO] [armorplus/]: Charge at: 14
-[04Aug2025 03:41:50.212] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 03:41:51.811] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 03:41:53.161] [Server thread/INFO] [armorplus/]: Charge at: 23
-[04Aug2025 03:41:54.619] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 03:41:57.163] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 03:41:57.467] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 03:42:00.309] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 03:42:01.862] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 03:42:02.717] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 03:42:14.015] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 03:43:31.711] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 03:43:34.362] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 03:43:47.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -9.649193983566875,-1.0775786535759977,4.05487363610456
-[04Aug2025 03:44:19.564] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 03:44:23.169] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 03:45:03.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -6.093052786198314,-2.3551581730405786,-7.644054039914556
-[04Aug2025 03:45:49.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
-[04Aug2025 03:45:49.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tp diamondkingx_2000<--[HERE]
-[04Aug2025 03:47:41.608] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:47:42.467] [Server thread/INFO] [armorplus/]: Charge at: 8
-[04Aug2025 03:47:43.263] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 03:47:45.111] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 03:47:48.212] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 03:47:49.863] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 03:47:51.507] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 03:49:26.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
-[04Aug2025 03:49:29.717] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 03:49:39.732] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 03:49:40.636] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 03:50:36.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 71.000000, 11385.500000
-[04Aug2025 03:50:36.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! -5.889109856501818,-0.13090649971453416,8.14817360239752
-[04Aug2025 03:50:36.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4811ms or 96 ticks behind
-[04Aug2025 03:51:16.264] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 03:51:17.212] [Server thread/INFO] [armorplus/]: Charge at: 14
-[04Aug2025 03:51:18.206] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 03:51:19.162] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 03:51:20.110] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 03:51:20.913] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 03:51:22.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to 2469.500000, 65.000000, 7436.500000
-[04Aug2025 03:51:22.487] [Server thread/INFO] [armorplus/]: Charge at: 0
-[04Aug2025 03:51:22.490] [Server thread/INFO] [armorplus/]: Charge at: 0
-[04Aug2025 03:51:22.576] [Server thread/INFO] [armorplus/]: Charge at: 3
-[04Aug2025 03:51:23.209] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 03:51:24.863] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 03:51:30.031] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 03:51:31.433] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 03:51:32.229] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 03:51:35.128] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 03:51:35.965] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 03:51:37.887] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 03:51:38.034] [Server thread/INFO] [armorplus/]: Charge at: 1
-[04Aug2025 03:51:39.089] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 03:51:40.581] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 03:51:42.188] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 03:52:12.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set DiamondKingX's game mode to Survival Mode
-[04Aug2025 03:54:16.527] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 03:54:17.380] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 03:54:17.985] [Server thread/INFO] [armorplus/]: Charge at: 8
-[04Aug2025 03:54:18.530] [Server thread/INFO] [armorplus/]: Charge at: 8
-[04Aug2025 03:54:18.934] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 03:54:19.657] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 03:54:20.436] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 03:54:20.986] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 03:54:21.551] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 03:54:22.253] [Server thread/INFO] [armorplus/]: Charge at: 14
-[04Aug2025 03:54:22.856] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 03:54:23.246] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 03:54:24.329] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 03:54:29.897] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 03:54:31.083] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 03:54:32.378] [Server thread/INFO] [armorplus/]: Charge at: 24
-[04Aug2025 03:54:34.392] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 03:54:35.832] [Server thread/INFO] [armorplus/]: Charge at: 14
-[04Aug2025 03:54:37.475] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 03:54:38.737] [Server thread/INFO] [armorplus/]: Charge at: 19
-[04Aug2025 03:54:39.838] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 03:55:21.624] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 03:55:22.247] [Server thread/INFO] [armorplus/]: Charge at: 3
-[04Aug2025 03:55:45.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/260415, l='ServerLevel[world]', x=2424.71, y=62.42, z=7478.56] died, message: 'Villager was slain by Zombie'
-[04Aug2025 03:56:34.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DiamondKingX to PredatorX_2000
-[04Aug2025 03:56:48.113] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 03:56:48.928] [Server thread/INFO] [armorplus/]: Charge at: 7
-[04Aug2025 03:56:49.978] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 03:56:50.877] [Server thread/INFO] [armorplus/]: Charge at: 12
-[04Aug2025 04:02:06.424] [Server thread/INFO] [armorplus/]: Charge at: 25
-[04Aug2025 04:02:08.014] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 04:02:10.219] [Server thread/INFO] [armorplus/]: Charge at: 41
-[04Aug2025 04:02:12.011] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 04:02:13.865] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 04:02:15.181] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 04:02:15.709] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 04:02:16.281] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 04:02:17.313] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 04:02:17.510] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 04:02:18.531] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 04:02:19.160] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 04:02:19.531] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 04:02:20.434] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 04:02:20.610] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 04:02:21.070] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 04:03:25.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX has made the advancement [Mother of Dragons]
-[04Aug2025 04:12:12.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 moved too quickly! 1.3819145122524787,-0.8499999999999517,-10.154191696205066
-[04Aug2025 04:12:12.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX moved too quickly! -3.5440617866947832,0.7293000063657757,9.954215887886818
-[04Aug2025 04:16:32.774] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 04:16:33.818] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 04:16:35.066] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 04:16:35.913] [Server thread/INFO] [armorplus/]: Charge at: 14
-[04Aug2025 04:16:36.568] [Server thread/INFO] [armorplus/]: Charge at: 11
-[04Aug2025 04:16:37.013] [Server thread/INFO] [armorplus/]: Charge at: 7
-[04Aug2025 04:16:54.465] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 04:16:55.264] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 04:17:08.318] [Server thread/INFO] [armorplus/]: Charge at: 17
-[04Aug2025 04:17:09.310] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 04:17:10.020] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 04:17:10.370] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 04:17:16.417] [Server thread/INFO] [armorplus/]: Charge at: 16
-[04Aug2025 04:17:18.173] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 04:19:17.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninouzumaki lost connection: Disconnected
-[04Aug2025 04:19:17.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ninouzumaki left the game
-[04Aug2025 04:20:15.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 has reached the goal [Pray to the Goddess]
-[04Aug2025 04:30:47.272] [Server thread/INFO] [armorplus/]: Charge at: 29
-[04Aug2025 04:30:48.072] [Server thread/INFO] [armorplus/]: Charge at: 9
-[04Aug2025 04:30:49.920] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 04:30:51.173] [Server thread/INFO] [armorplus/]: Charge at: 10
-[04Aug2025 04:31:17.570] [Server thread/INFO] [armorplus/]: Charge at: 18
-[04Aug2025 04:31:19.675] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 04:31:29.671] [Server thread/INFO] [armorplus/]: Charge at: 59
-[04Aug2025 04:31:33.471] [Server thread/INFO] [armorplus/]: Charge at: 42
-[04Aug2025 04:31:39.621] [Server thread/INFO] [armorplus/]: Charge at: 88
-[04Aug2025 04:31:46.810] [Server thread/INFO] [armorplus/]: Charge at: 21
-[04Aug2025 04:31:50.209] [Server thread/INFO] [armorplus/]: Charge at: 38
-[04Aug2025 04:31:52.150] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 04:31:53.847] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 04:31:57.178] [Server thread/INFO] [armorplus/]: Charge at: 63
-[04Aug2025 04:31:58.972] [Server thread/INFO] [armorplus/]: Charge at: 47
-[04Aug2025 04:31:59.051] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 04:32:00.749] [Server thread/INFO] [armorplus/]: Charge at: 31
-[04Aug2025 04:32:02.212] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 04:32:04.046] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 04:32:04.923] [Server thread/INFO] [armorplus/]: Charge at: 40
-[04Aug2025 04:32:05.999] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 04:32:06.914] [Server thread/INFO] [armorplus/]: Charge at: 28
-[04Aug2025 04:32:07.584] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 04:32:09.984] [Server thread/INFO] [armorplus/]: Charge at: 44
-[04Aug2025 04:32:12.183] [Server thread/INFO] [armorplus/]: Charge at: 42
-[04Aug2025 04:32:14.048] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 04:32:15.801] [Server thread/INFO] [armorplus/]: Charge at: 33
-[04Aug2025 04:32:16.223] [Server thread/INFO] [armorplus/]: Charge at: 43
-[04Aug2025 04:32:16.976] [Server thread/INFO] [armorplus/]: Charge at: 8
-[04Aug2025 04:32:17.257] [Server thread/INFO] [armorplus/]: Charge at: 26
-[04Aug2025 04:32:18.312] [Server thread/INFO] [armorplus/]: Charge at: 20
-[04Aug2025 04:32:19.100] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 04:32:19.224] [Server thread/INFO] [armorplus/]: Charge at: 14
-[04Aug2025 04:32:20.024] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 04:32:20.474] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 04:32:20.926] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 04:32:20.949] [Server thread/INFO] [armorplus/]: Charge at: 35
-[04Aug2025 04:32:21.277] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 04:32:21.513] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 04:32:21.865] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 04:32:22.613] [Server thread/INFO] [armorplus/]: Charge at: 13
-[04Aug2025 04:32:23.124] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 04:32:23.525] [Server thread/INFO] [armorplus/]: Charge at: 5
-[04Aug2025 04:32:23.975] [Server thread/INFO] [armorplus/]: Charge at: 6
-[04Aug2025 04:32:24.004] [Server thread/INFO] [armorplus/]: Charge at: 59
-[04Aug2025 04:32:24.476] [Server thread/INFO] [armorplus/]: Charge at: 8
-[04Aug2025 04:32:24.977] [Server thread/INFO] [armorplus/]: Charge at: 7
-[04Aug2025 04:32:25.277] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 04:32:25.577] [Server thread/INFO] [armorplus/]: Charge at: 4
-[04Aug2025 04:32:25.984] [Server thread/INFO] [armorplus/]: Charge at: 37
-[04Aug2025 04:32:27.833] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 04:32:29.050] [Server thread/INFO] [armorplus/]: Charge at: 22
-[04Aug2025 04:32:32.699] [Server thread/INFO] [armorplus/]: Charge at: 67
-[04Aug2025 04:32:37.402] [Server thread/INFO] [armorplus/]: Charge at: 30
-[04Aug2025 04:32:40.583] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 04:32:48.104] [Server thread/INFO] [armorplus/]: Charge at: 27
-[04Aug2025 04:33:01.334] [Server thread/INFO] [armorplus/]: Charge at: 34
-[04Aug2025 04:33:03.703] [Server thread/INFO] [armorplus/]: Charge at: 45
-[04Aug2025 04:33:53.256] [Server thread/INFO] [armorplus/]: Charge at: 36
-[04Aug2025 04:34:03.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PredatorX_2000 lost connection: Disconnected
-[04Aug2025 04:34:03.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PredatorX_2000 left the game
-[04Aug2025 04:34:19.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DiamondKingX lost connection: Disconnected
-[04Aug2025 04:34:19.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX left the game
-[04Aug2025 04:34:38.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[04Aug2025 04:34:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Aug2025 04:34:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Aug2025 04:34:38.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Aug2025 04:34:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04Aug2025 04:34:40.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04Aug2025 04:34:40.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/peru_mod:hanan
-[04Aug2025 04:34:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/panthalassa:panthalassa
-[04Aug2025 04:34:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04Aug2025 04:34:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
-[04Aug2025 04:34:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (panthalassa): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[04Aug2025 04:34:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Aug2025 00:22:30.787] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[28Aug2025 00:22:30.792] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[28Aug2025 00:22:32.639] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/solid-potato/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[28Aug2025 00:22:33.274] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[28Aug2025 00:22:33.275] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[28Aug2025 00:22:33.279] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[28Aug2025 00:22:33.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/solid-potato/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[28Aug2025 00:22:33.782] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[28Aug2025 00:22:35.799] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Aug2025 00:22:35.892] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[28Aug2025 00:22:35.897] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Aug2025 00:22:35.956] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Aug2025 00:22:38.146] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[28Aug2025 00:22:48.117] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
+[28Aug2025 00:22:48.453] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[28Aug2025 00:22:48.454] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[28Aug2025 00:22:56.649] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[28Aug2025 00:22:57.441] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[28Aug2025 00:22:57.444] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[28Aug2025 00:22:58.076] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[28Aug2025 00:22:58.077] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[28Aug2025 00:22:58.079] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
+[28Aug2025 00:22:58.079] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
+[28Aug2025 00:22:58.080] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
+[28Aug2025 00:22:59.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[28Aug2025 00:23:00.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 7.1.49 Target: null
+[28Aug2025 00:23:00.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[28Aug2025 00:23:00.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[28Aug2025 00:23:00.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.18/thedragonlib-updater.json
+[28Aug2025 00:23:00.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.18.1-1.0.0 Target: null
+[28Aug2025 00:23:00.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Aug2025 00:23:00.455] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[28Aug2025 00:23:00.456] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[28Aug2025 00:23:00.636] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[28Aug2025 00:23:00.651] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[28Aug2025 00:23:00.652] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[28Aug2025 00:23:00.652] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[28Aug2025 00:23:00.652] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of tconstruct:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[28Aug2025 00:23:00.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[28Aug2025 00:23:00.781] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.18/update.json
+[28Aug2025 00:23:00.867] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 97 ms
+[28Aug2025 00:23:00.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: UP_TO_DATE Current: 1.18.2-18.3.0 Target: null
+[28Aug2025 00:23:06.001] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Aug2025 00:23:09.170] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/solid-potato/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/assets/.mcassetsroot' uses unexpected schema
+[28Aug2025 00:23:09.172] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/solid-potato/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2367!/data/.mcassetsroot' uses unexpected schema
+[28Aug2025 00:23:28.251] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 237 ms
+[28Aug2025 00:23:32.530] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Aug2025 00:23:32.531] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Aug2025 00:23:32.535] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Aug2025 00:23:32.536] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Aug2025 00:23:32.537] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Aug2025 00:23:32.540] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[28Aug2025 00:23:32.541] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[28Aug2025 00:23:32.545] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[28Aug2025 00:23:32.546] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[28Aug2025 00:23:32.547] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+[28Aug2025 00:23:32.548] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
+[28Aug2025 00:23:39.189] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[28Aug2025 00:23:39.207] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[28Aug2025 00:23:39.223] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[28Aug2025 00:23:39.246] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[28Aug2025 00:23:39.247] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[28Aug2025 00:23:39.345] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[28Aug2025 00:23:39.351] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[28Aug2025 00:23:39.397] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[28Aug2025 00:23:39.423] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[28Aug2025 00:23:39.424] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
+com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:270) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:87) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:77) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.18.2-40.2.21-universal.jar%2372!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:157) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_10855_(SimpleReloadInstance.java:51) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance$1.m_6769_(SimpleReloadInstance.java:48) ~[server-1.18.2-20220404.173914-srg.jar%2367!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[28Aug2025 00:23:39.464] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[28Aug2025 00:23:41.302] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2344 advancements
+[28Aug2025 00:23:41.314] [Worker-Main-6/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 23 dynamic modifiers in 3.122455 ms
+[28Aug2025 00:23:41.581] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 68 dynamic modifiers and 15 modifier redirects in 33.557198 ms
+[28Aug2025 00:23:41.713] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 5 modifier tags for 20 modifiers in 131.83076 ms
+[28Aug2025 00:23:41.714] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 49 enchantment to modifier mappings in 0.756481 ms
+[28Aug2025 00:23:41.724] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.modifiers.spilling.SpillingFluidManager/]: Loaded 48 spilling fluids in 7.378295 ms
+[28Aug2025 00:23:41.756] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 97 Soft Fluids
+[28Aug2025 00:23:41.839] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 48 materials in 29.012997 ms
+[28Aug2025 00:23:41.928] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 88.961945 ms
+[28Aug2025 00:23:41.992] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 196 stats loaded for 65 materials in 63.728233 ms
+[28Aug2025 00:23:42.062] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 86 traits loaded for 65 materials in 69.64167 ms
+[28Aug2025 00:23:42.072] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 33 tool definitions in 9.115577 ms
+[28Aug2025 00:23:42.076] [Worker-Main-6/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 18 station slot layouts in 4.104437 ms
+[28Aug2025 00:23:44.414] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[28Aug2025 00:23:44.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[28Aug2025 00:23:44.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Aug2025 00:23:44.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Aug2025 00:23:44.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Aug2025 00:23:45.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Aug2025 00:23:45.311] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Aug2025 00:23:45.482] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Aug2025 00:23:45.483] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Aug2025 00:23:45.483] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Aug2025 00:23:45.483] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Aug2025 00:23:46.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Aug2025 00:23:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Aug2025 00:23:51.914] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.915] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.920] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.923] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.928] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.928] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.930] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.931] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.932] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.941] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.942] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:51.961] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:52.458] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:52.961] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:53.456] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Aug2025 00:23:53.957] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[28Aug2025 00:23:54.637] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[28Aug2025 00:23:55.078] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[28Aug2025 00:23:55.456] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[28Aug2025 00:23:55.963] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[28Aug2025 00:23:56.473] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[28Aug2025 00:23:56.956] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[28Aug2025 00:23:57.468] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[28Aug2025 00:23:57.961] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[28Aug2025 00:23:58.456] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[28Aug2025 00:23:58.959] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[28Aug2025 00:23:59.457] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[28Aug2025 00:23:59.958] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[28Aug2025 00:24:00.456] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[28Aug2025 00:24:00.957] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[28Aug2025 00:24:01.934] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[28Aug2025 00:24:01.956] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[28Aug2025 00:24:02.779] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 16323 ms
+[28Aug2025 00:24:02.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.201s)! For help, type "help"
+[28Aug2025 00:24:02.966] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Aug2025 00:24:02.972] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[28Aug2025 00:24:02.977] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[28Aug2025 00:24:02.978] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[28Aug2025 00:25:14.136] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@134dad7f
+[28Aug2025 00:25:14.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DiamondKingX[/127.249.248.84:32777] logged in with entity id 62 at (3292.603957370709, 105.0, -164.57287706480346)
+[28Aug2025 00:25:14.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DiamondKingX joined the game
+[28Aug2025 00:25:16.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
